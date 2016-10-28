@@ -10,8 +10,8 @@ HMM (HTK) ()
 2. create {wlist} file  
 3. create {lexicon} file  
 -> HDMan ...
-4. create {.mlf} file (man.mlf, woman.mlf)  
-5. create {hcopy.scp} file   
+4. create {man.mlf, woman.mlf} file  
+5. create {man.scp, woman.scp} file   
 
 
 #Todo
