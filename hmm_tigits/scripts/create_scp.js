@@ -5,15 +5,17 @@ var LOG = 0;
 
 function f1() {
   var dirpath = './../data/tidigit/train/man';
-  var SCP_File = './../io/created/scp/man.scp'
-  createSCP(dirpath, SCP_File);
+  var SCP_File = './../io/created/scp/man.scp';
+  var TRAIN_SCP_File = './../io/created/train/man.scp';
+  createSCP(dirpath, SCP_File, TRAIN_SCP_File);
   console.log('CREATING man.SCP')
 }
 
 function f2() {
   var dirpath = './../data/tidigit/train/woman';
-  var SCP_File = './../io/created/scp/woman.scp'
-  createSCP(dirpath, SCP_File);
+  var SCP_File = './../io/created/scp/woman.scp';
+  var TRAIN_SCP_File = './../io/created/train/woman.scp';
+  createSCP(dirpath, SCP_File, TRAIN_SCP_File);
   console.log('CREATING woman.SCP')
 }
 // *** put the above f1, f2 .. in funs array to execute one by one
@@ -33,9 +35,10 @@ function runNextFun() {
 }
 
 var count; // keep track of remaining files
-function createSCP(dirpath, SCP_File) {
+function createSCP(dirpath, SCP_File, TRAIN_SCP_File) {
   
   var data = []; // *** all string will be pushed to this array ***
+  var train = [];
 
   fs.readdir(dirpath, function (err, dirs) {
     count = dirs.length;
@@ -51,7 +54,7 @@ function createSCP(dirpath, SCP_File) {
             count += files.length;
 
             if (err) console.log(err);
-            processFiles(files, dpath, data, SCP_File);
+            processFiles(files, dpath, data, train, SCP_File, TRAIN_SCP_File);
           })
         } else {
           count--;
@@ -64,32 +67,35 @@ function createSCP(dirpath, SCP_File) {
 
 var inc = 0;
 
-function processFiles(files, dpath, data, SCP_File) {
+function processFiles(files, dpath, data, train, SCP_File, TRAIN_SCP_File) {
   files.forEach( function (fname){
     var filePath = path.join(dpath, fname);
 
     if (LOG) console.log(++inc,' ->', filePath);
-    putFileInfo(filePath, fname, data);
+    putFileInfo(filePath, fname, data, train);
   
     // ***create the SCP file***
     if(--count == 0) {
       // save file
-      console.log('SAVING THE SCP FILE.');
+      console.log('SAVING THE SCP FILES.');
 
       // console.log(data.join(''))
-      // fs.writeFile(SCP_File, data.join(''), function (err) {
-      //   if(err) console.log(err)
-
-        runNextFun();
-        inc = 0;
-      // })
-
+      fs.writeFile(SCP_File, data.join(''), function (err) {
+        if(err) console.log(err)
+          
+        fs.writeFile(TRAIN_SCP_File, train.join(''), function (err) {
+          if(err) console.log(err)
+            
+          runNextFun();
+          inc = 0;
+        }) // fs.write
+      }) // fs.write
     }
   })
 }
 
 var absFilePath = '';
-function putFileInfo(filePath, fname, data) {
+function putFileInfo(filePath, fname, data, train) {
   // the mfcc absolute file path
   absFilePath = path.resolve(__dirname, filePath);
 
@@ -98,6 +104,8 @@ function putFileInfo(filePath, fname, data) {
   savePath += fname;
 
   var str = absFilePath +'        '+ savePath + '\n';
-  console.log(str)
+  var trainStr = savePath + '\n';
+  // console.log(str)
   data.push(str);
+  train.push(trainStr);
 }

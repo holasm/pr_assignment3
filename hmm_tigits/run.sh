@@ -38,6 +38,9 @@ echo "-----------------INFO--------------------"
 printf "Step 4 => Expanding the word transcriptions into model transcriptions\n"
 printf "\$_>: HDMan -m -w wlist -n models1 -l dlog dict lexicon\n\n"
 
+HCopy -T 1 -C io/created/config -S io/created/scp/man.scp
+HCopy -T 1 -C io/created/config -S io/created/scp/woman.scp
+
 
 
 
