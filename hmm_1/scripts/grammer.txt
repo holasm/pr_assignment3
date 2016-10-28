@@ -1,0 +1,1 @@
+a | b | c | d | e | eight | f | five | four | g | h | i | j | k | l | m | n | nine | o | one | p | q | r | s | seven | six | t | three | two | u | v | w | x | y | z | zero
