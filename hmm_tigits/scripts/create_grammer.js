@@ -2,23 +2,24 @@ var fs = require('fs');
 var path =  require('path');
 var _ = require('lodash');
 
-var letters = 'abcdefghijklmnopqrstuvwxyz';
+// var letters = 'abcdefghijklmnopqrstuvwxyz';
 var digits = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
 
 // file paths
-var wlistFile = './../wlist'
-var lexiconFile = './../lexicon'
-var grammerFile = './../grammer'
+var wlistFile = './../io/created/wlist'
+var lexiconFile = './../io/created/lexicon'
+var grammerFile = './../io/created/grammer'
 
 // combine all letters and digits
 
 var data = '';
 var all = [];
-for (var i = 0; i < letters.length; i++) {
-  all.push(letters[i]);
-}
+// for (var i = 0; i < letters.length; i++) {
+//   all.push(letters[i]);
+// }
 
-var all = all.concat(digits);
+// var all = all.concat(digits);
+var all = digits;
 all = all.sort();
 
 data += all[0];
@@ -26,7 +27,7 @@ for (var i = 1; i < all.length; i++) {
   data += ' | ' + all[i];
 }
 data = '$data = ' + data + ';\n';
-data += '( SENT-START ( <$digit> ) SENT-END )';
+data += '( SENT-START ( <$data> ) SENT-END )';
 
 fs.writeFile(grammerFile, data);
 
@@ -67,4 +68,3 @@ wlist += 'sil' + '\n';
 wlist += 'sil' + '\n';
 
 fs.writeFile(wlistFile, wlist);
-
