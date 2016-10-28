@@ -2,8 +2,8 @@ HMM (HTK) ()
 ############################
 => TIDIGITS Dataset
 ############################
-----------------------------
-Completed
+
+#Completed
 ----------------------------
 1. Create {grammer} file
 -> HParse ...
@@ -13,15 +13,15 @@ Completed
 4. create {.mlf} file (man.mlf, woman.mlf)
 5. create {hcopy.scp} file 
 
+
+#Todo
 ----------------------------
-Todo
-----------------------------
--> HCopy ...
-6. create {train.scp} file
-7. create {proto} file
--> HCompV ...
--> HERest ... (repeat 3 or more times)
--> HHEd ...
--> HVite ...
--> HResults ...
+-> HCopy ...    
+6. create {train.scp} file    
+7. create {proto} file    
+-> HCompV ...     
+-> HERest ... (repeat 3 or more times)    
+-> HHEd ...     
+-> HVite ...    
+-> HResults ...     
 
