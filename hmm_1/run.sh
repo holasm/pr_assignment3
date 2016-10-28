@@ -4,14 +4,14 @@
 
 # @author: Subhasis Maity
 root=$PWD
-grammerfile="grammar.txt"
+grammerfile="grammar" # the file name is written explicitly inside the cmd ->HParse
 
 echo "-----------------INFO--------------------"
 printf "Step 1 => Create HTK wordnet lattice\n"
 printf "\$_>: HParse grammer wordnet\n"
 printf "grammerfile -> $grammerfile\n\n"
 
-HParse grammer.txt wordnet # Convert this grammar to an HTK wordnet lattice using the HParse tool
+HParse grammer wordnet # Convert this grammar to an HTK wordnet lattice using the HParse tool
 
 # create lexicon, wlist ***with proper order***
 

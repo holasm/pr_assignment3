@@ -5,6 +5,11 @@ var _ = require('lodash');
 var letters = 'abcdefghijklmnopqrstuvwxyz';
 var digits = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
 
+// file paths
+var wlistFile = './../wlist'
+var lexiconFile = './../lexicon'
+var grammerFile = './../grammer'
+
 // combine all letters and digits
 
 var data = '';
@@ -20,7 +25,7 @@ data += all[0];
 for (var i = 1; i < all.length; i++) {
   data += ' | ' + all[i];
 }
-fs.writeFile('./grammer.txt', data);
+fs.writeFile(grammerFile, data);
 
 // create lexison
 var lexicon = '';
@@ -31,7 +36,7 @@ for (var i = 0; i < all.length; i++) {
 lexicon += wordWlist('sent-start', 'sil', 15) + '\n';
 lexicon += wordWlist('sent-end', 'sil', 15) + '\n';
 
-fs.writeFile('./lexicon.txt', lexicon);
+fs.writeFile(lexiconFile, lexicon);
 
 function createSpace(count) {
   var spaces = '';
@@ -58,5 +63,5 @@ for (var i = 0; i < all.length; i++) {
 wlist += 'sil' + '\n';
 wlist += 'sil' + '\n';
 
-fs.writeFile('./wlist.txt', wlist);
+fs.writeFile(wlistFile, wlist);
 
