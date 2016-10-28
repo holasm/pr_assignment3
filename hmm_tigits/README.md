@@ -17,8 +17,8 @@ HMM (HTK) ()
 #Todo
 ----------------------------
 -> HCopy ...  
-6. create {train.scp} file  
-7. create {proto} file  
+6. create {train.scp} file √  
+7. create {proto} file  √
 -> HCompV ...  
 -> HERest ... (repeat 3 or more times)  
 -> HHEd ...  
