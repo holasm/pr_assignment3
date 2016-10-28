@@ -1,17 +1,27 @@
-
+HMM (HTK) ()
+############################
+=> TIDIGITS Dataset
+############################
+----------------------------
+Completed
+----------------------------
 1. Create {grammer} file
 -> HParse ...
 2. create {wlist} file
 3. create {lexicon} file
 -> HDMan ...
-4. create {.mlf} file
-5. create {mkphones0.led} file
--> HLEd ...
+4. create {.mlf} file (man.mlf, woman.mlf)
+5. create {hcopy.scp} file 
 
--------------------------------------------------
-run
+----------------------------
+Todo
+----------------------------
+-> HCopy ...
+6. create {train.scp} file
+7. create {proto} file
+-> HCompV ...
+-> HERest ... (repeat 3 or more times)
+-> HHEd ...
+-> HVite ...
+-> HResults ...
 
-1, 2, 3: node ./scrotps/create_grammer.js
-node ./scrotps/create_mlf.js
-
-./run.sh
