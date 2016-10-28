@@ -25,6 +25,9 @@ data += all[0];
 for (var i = 1; i < all.length; i++) {
   data += ' | ' + all[i];
 }
+data = '$data = ' + data + ';\n';
+data += '( SENT-START ( <$digit> ) SENT-END )';
+
 fs.writeFile(grammerFile, data);
 
 // create lexison

@@ -7,6 +7,10 @@ root=$PWD
 grammerfile="grammar" # the file name is written explicitly inside the cmd ->HParse
 
 echo "-----------------INFO--------------------"
+node ./scripts/create_grammer.js # creates grammer, wlist, lexicon
+node ./scripts/create_mlf.js # creates MASTER LABEL FILE
+
+echo "-----------------INFO--------------------"
 printf "Step 1 => Create HTK wordnet lattice\n"
 printf "\$_>: HParse grammer wordnet\n"
 printf "grammerfile -> $grammerfile\n\n"
