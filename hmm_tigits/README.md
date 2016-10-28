@@ -1,6 +1,6 @@
 HMM (HTK) ()
 ############################
-=> TIDIGITS Dataset !(https://github.com/holasm/pr_assignment3/tree/master/hmm_tigits)
+=> TIDIGITS Dataset (https://github.com/holasm/pr_assignment3/tree/master/hmm_tigits)
 ############################
 
 #Completed
