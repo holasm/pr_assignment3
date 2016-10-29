@@ -4,14 +4,14 @@ var _ = require('lodash');
 var LOG = 0;
 
 function f1() {
-  var dirpath = './../data/processed/train/man'; // tigit -> processed
+  var dirpath = './../data/tidigit/train/man';
   var MLF_File = './../io/created/mlf/man.mlf'
   createMLF(dirpath, MLF_File);
   console.log('CREATING man.mlf')
 }
 
 function f2() {
-  var dirpath = './../data/processed/train/woman'; // tigit -> processed
+  var dirpath = './../data/tidigit/train/woman';
   var MLF_File = './../io/created/mlf/woman.mlf'
   createMLF(dirpath, MLF_File);
   console.log('CREATING woman.mlf')
@@ -74,71 +74,29 @@ function processFiles(files, dpath, data, MLF_File) {
       console.log('SAVING THE MLF FILE.');
 
       // console.log(data.join(''))
-      fs.writeFile(MLF_File, data.join(''), function (err) {
-        if(err) console.log(err)
+      // fs.writeFile(MLF_File, data.join(''), function (err) {
+        // if(err) console.log(err)
 
-        runNextFun();
-        inc = 0;
-      })
+      runNextFun();
+      inc = 0;
+      // })
 
     }
   })
 }
-
-var names = {
-  // 'a' : 'a',
-  // 'b' : 'b',
-  // 'c' : 'c',
-  // 'd' : 'd',
-  // 'e' : 'e',
-  // 'f' : 'f',
-  // 'g' : 'g',
-  // 'h' : 'h',
-  // 'i' : 'i',
-  // 'j' : 'j',
-  // 'k' : 'k',
-  // 'l' : 'l',
-  // 'm' : 'm',
-  // 'n' : 'n',
-  // 'o' : 'o',
-  // 'p' : 'p',
-  // 'q' : 'q',
-  // 'r' : 'r',
-  // 's' : 's',
-  // 't' : 't',
-  // 'u' : 'u',
-  // 'v' : 'v',
-  // 'w' : 'w',
-  // 'x' : 'x',
-  // 'y' : 'y',
-  // 'z' : 'z',
-  '0' : 'zero',
-  '1' : 'one',
-  '2' : 'two',
-  '3' : 'three',
-  '4' : 'four',
-  '5' : 'five',
-  '6' : 'six',
-  '7' : 'seven',
-  '8' : 'eight',
-  '9' : 'nine'
-};
-
+var key = 1;
 function putFileInfo(filePath, fname, data) {
-  var str = '"*/../' + filePath.slice(0,-4) + 'leb' + '"\n';
-  
-  // str +=  filePath + '\n';
-
-  var name = fname.slice(0, -5);
-  for (var i = 0; i < name.length; i++) {
-    if(names[name[i]] != undefined ) { // skip a, b, c, d, e ...
-      str += names[name[i]] + '\n';
+  fs.readFile(filePath, 'utf-8', function (err, data) {
+    if (err) new Error(err);
+    // remove first line from data
+    // write the file
+    var newLine = data.indexOf('\n');
+    var processedFilePath = filePath.replace('tidigit', 'processed');
+    if (!fs.existsSync(processedFilePath.slice(0, -fname.length))){
+      fs.mkdirSync(processedFilePath.slice(0, -fname.length));
     }
-  }
-
-  str += '.\n';
-
-  // console.log(str)
-
-  data.push(str);
+    // console.log(processedFilePath)
+    fs.writeFile(processedFilePath, data.slice(newLine+1));
+    
+  })
 }

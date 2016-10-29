@@ -4,7 +4,7 @@ var _ = require('lodash');
 var LOG = 0;
 
 function f1() {
-  var dirpath = './../data/tidigit/train/man';
+  var dirpath = './../data/processed/train/man';
   var SCP_File = './../io/created/scp/man.scp';
   var TRAIN_SCP_File = './../io/created/train/man.scp';
   createSCP(dirpath, SCP_File, TRAIN_SCP_File);
@@ -12,7 +12,7 @@ function f1() {
 }
 
 function f2() {
-  var dirpath = './../data/tidigit/train/woman';
+  var dirpath = './../data/processed/train/woman';
   var SCP_File = './../io/created/scp/woman.scp';
   var TRAIN_SCP_File = './../io/created/train/woman.scp';
   createSCP(dirpath, SCP_File, TRAIN_SCP_File);
@@ -100,11 +100,11 @@ function putFileInfo(filePath, fname, data, train) {
   absFilePath = path.resolve(__dirname, filePath);
 
   // the mfcc absolute file path
-  var savePath = path.resolve(__dirname, '../io/gen/scp');
-  savePath += fname;
+  var savePath = absFilePath;// = path.resolve(__dirname, '../io/gen/scp');
+  savePath += savePath.slice(0, -4) + 'mfc';
 
   var str = absFilePath +'        '+ savePath + '\n';
-  var trainStr = savePath + '\n';
+  var trainStr = absFilePath + '\n';
   // console.log(str)
   data.push(str);
   train.push(trainStr);
