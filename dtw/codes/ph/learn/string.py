@@ -7,4 +7,4 @@ def printme( str ):
   return
 
 # print(os.listdir("1"))
-# print(Path('./1'))
+print(Path('./1'))
