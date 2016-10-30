@@ -1,45 +1,32 @@
-from numpy import array, zeros, argmin, inf
-from numpy.linalg import norm
-from dtw import dtw
-import numpy as np
-import os
-import operator
-import random
+import classify
+import datetime
+from dtw_su import classify
 
-def find_max(database):
-  maxVal = max(database.iteritems(), key=operator.itemgetter(1))[0]
-  for city in database:
-    if(city == maxVal):
-      print('---####### ' + city + ' -> ' + str(database[city]) + ' #######')
-    else:
-      print('---' + city + ' -> ' + str(database[city]))
-  print(maxVal)
- 
-# Set the directory you want to start from
-rootDir = './../../data/processed'
+testFiles = [
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Appil.mfcc/1022_Appil.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Salem.mfcc/1021Salem.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Thanjavur.mfcc/1021Thanjavur.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Theni.mfcc/1021Theni.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Villupuram.mfcc/1021Villupuram.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Ariyalur.mfcc/1022Ariyalur.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Chennai.mfcc/1022Chennai.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Coimbatore.mfcc/1022Coimbatore.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Madurai.mfcc/1022Madurai.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Nagapattinam.mfcc/1022Nagapattinam.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Theni.mfcc/1022Theni.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Thiruchirappalli.mfcc/1022Thiruchirappalli.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Thirunelveli.mfcc/1022Thirunelveli.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Thiruvannamalai.mfcc/1022Thiruvannamalai.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Virudhunagar.mfcc/1022Virudhunagar.mfcc',
+  '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Appil.mfcc/1022_Appil.mfcc'
+]
+city = classify.do_file(testFiles[0])
 
-# calculate dtw distance for all files and do average
-database = {}
-for dirName, subdirList, fileList in os.walk(rootDir):
-    # print('Found directory: %s' % dirName)
-    dirName = os.path.basename(os.path.normpath(dirName))
-    database[dirName] = []
-    for fname in fileList:
-      # print('\t%s' % fname)
-
-      # 
-      # READ THE FILE AND CALCULATE THE DTW DISTANCE
-      # SAVE THE DTW DISTANCE
-      #
-
-      # call dtw
-      (database[dirName]).append(random.randint(0, 100))
+print(city)
 
 
-    # take average of the total dtw distace from all cities
-    database[dirName] = np.mean(np.array(database[dirName]))
 
-find_max(database)
+# find_max(database)
 
 
 
