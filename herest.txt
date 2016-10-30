@@ -1,0 +1,1 @@
+HERest -I all.mlf -S all.scp -H hmm0/macros -H hmm0/hmmdefs -M hmm1 models0
