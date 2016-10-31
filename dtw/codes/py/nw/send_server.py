@@ -5,7 +5,7 @@ import time
 def test_socket_modes():
   host_name = socket.gethostname()
   ip_addr = socket.gethostbyname(host_name)
-  port = 3000
+  port = 3001
 
   sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
   sock.setblocking(1)

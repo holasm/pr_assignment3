@@ -2,10 +2,13 @@ import socket
 import sys
 import time
 
+def processBuf(buf, client):
+  client.send(buf)
+
 def test_socket_modes():
   host_name = socket.gethostname()
   ip_addr = socket.gethostbyname(host_name)
-  port = 3000
+  port = 3001
 
   sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
   sock.setblocking(1)
@@ -14,6 +17,7 @@ def test_socket_modes():
   sock.bind((ip_addr, port))
   socket_address = sock.getsockname()
   print "Trivial Server launched on socket: %s" %str(socket_address)
+  buf = ''
   while(1):
     time.sleep(0.002)
     sock.listen(1)
@@ -21,17 +25,9 @@ def test_socket_modes():
     client, address = sock.accept()
     data = client.recv(2048)
     if data:
-      print "Data: %s" %data
-      client.send(data)
-      print "sent %s bytes back to %s" % (data, address)
+      buf += data
+      processBuf(buf, client)
     client.close()
-
-    # try:
-    #   buf = s.recv(2048)
-    # except socket.error, e:
-    #   print "Error receiving data: %s" % e
-    #   sys.exit(1)
-    # sys.stdout.write(buf)
 
 
 if __name__ == '__main__':
