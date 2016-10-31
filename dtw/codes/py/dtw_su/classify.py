@@ -38,7 +38,9 @@ def do_file(testFilePath):
       # SAVE THE DTW DISTANCE
       #
       # call dtw.from_file
+      print 'Calc dtw from' + testFilePath + '=>' + fname
       dtw_distance = dtw.from_file(testFileData, basePath)
+      print 'Calculated distance is: ->' + str(dtw_distance)
       (database[cDirName]).append(dtw_distance)
 
     # take average of the total dtw distace from all cities
@@ -67,20 +69,23 @@ def singleCityClassify(testCityFilePath, mem, testResult={}):
       database[cityName] = []
 
     # calculate dtw.from_mem b/w testFileData and mem
+    print 'Calc dtw from' + testCityFilePath + '=>' + dirName
+    print threading.currentThread().ident
     dtw_distance = dtw.from_mem(testFileData, mem[dirName])
+    print 'Calculated distance is ->' + str(dtw_distance)
     (database[cityName]).append(dtw_distance)
 
   for city in database:
     # take average of the total dtw distace from all cities
     database[city] = np.mean(np.array(database[city]))
 
-  maxVal = max(database.iteritems(), key=operator.itemgetter(1))[0]
+  minVal = min(database.iteritems(), key=operator.itemgetter(1))[0]
 
   cityName_mfcc = os.path.basename(os.path.normpath(testCityFilePath))
   cityName_ = dirName[1:-len(cityName_mfcc)-1]
   cityName = os.path.basename(os.path.normpath(cityName_))
-  # return maxVal or 
-  testResult[testCityFilePath] = maxVal
+  # return minVal or 
+  testResult[testCityFilePath] = minVal
 
 # end_singleCityClassify
 
@@ -105,7 +110,7 @@ def do_mem(testCityFilePaths):
       # READ THE FILES AND SAVE ON mem DICTIONARY
       #
       # mem[filePath] = mfcc.load_file(filePath)
-      # mfcc.load_file_to(filePath, mem)
+      mfcc.load_file_to(filePath, mem)
       t = threading.Thread(target=mfcc.load_file_to, args=(filePath, mem))
       t.start()
       t.join()

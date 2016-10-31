@@ -20,7 +20,7 @@ testFiles = [
   '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Virudhunagar.mfcc/1022Virudhunagar.mfcc',
   '/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/Appil.mfcc/1022_Appil.mfcc'
 ]
-city = classify.do_file(testFiles[0])
+city = classify.do_mem(testFiles[1:3])
 
 print(city)
 

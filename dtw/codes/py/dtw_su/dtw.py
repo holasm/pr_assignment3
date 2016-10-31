@@ -4,7 +4,11 @@ import dtw_web
 from numpy.linalg import norm
 
 def my_custom_norm(x, y):
-  return (x * x) + (y * y)
+  z = x - y
+  ret = 0
+  for p in z:
+    ret = ret + p*p
+  return ret
 
 def cal_dtw(arr_1, arr_2):
   dist, cost = dtw_web.dtw(arr_1, arr_2, dist=my_custom_norm)
@@ -15,10 +19,7 @@ def from_file(arr_2, filePath):
   arr_2 = np.array(arr_2) # convert arr to numpy array
   # dist = cal_dtw(arr_1, arr_2)
   # print dist
-  if(len(arr_1) == len(arr_2)):
-    return norm(arr_1 - arr_2)
-  else:
-    return 1000
+  return cal_dtw(arr_1, arr_2)
   # find dtw from arr
   # dtw_distance
   ### return dtw_distance
@@ -28,7 +29,7 @@ def from_mem(cityName_mfcc, testFileData):
   arr_2 = np.array(testFileData)
   # print(arr_1)
   # print(arr_2)
-  return 1
+  return cal_dtw(arr_1, arr_2)
   # find dtw from arr
   # dtw_distance
   ### return dtw_distance

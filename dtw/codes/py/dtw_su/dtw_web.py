@@ -14,7 +14,6 @@ def dtw(x, y, dist=lambda x, y: norm(x - y, ord=1)):
 
     """
     x = np.array(x)
-    print(x)
     if len(x.shape) == 1:
         x = x.reshape(-1, 1)
     y = np.array(y)
