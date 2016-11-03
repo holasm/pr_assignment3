@@ -4,17 +4,17 @@ var _ = require('lodash');
 var LOG = 0;
 
 function f1() {
-  var dirpath = './../data/processed/train/man';
-  var SCP_File = './../io/created/scp/man.scp';
-  var TRAIN_SCP_File = './../io/created/train/man.scp';
+  var dirpath = './../data/processed/test/man';
+  var SCP_File = './../io/created/test/scp/man.scp';
+  var TRAIN_SCP_File = './../io/created/test/man.scp';
   createSCP(dirpath, SCP_File, TRAIN_SCP_File);
   console.log('CREATING man.SCP')
 }
 
 function f2() {
-  var dirpath = './../data/processed/train/woman';
-  var SCP_File = './../io/created/scp/woman.scp';
-  var TRAIN_SCP_File = './../io/created/train/woman.scp';
+  var dirpath = './../data/processed/test/woman';
+  var SCP_File = './../io/created/test/scp/woman.scp';
+  var TRAIN_SCP_File = './../io/created/test/woman.scp';
   createSCP(dirpath, SCP_File, TRAIN_SCP_File);
   console.log('CREATING woman.SCP')
 }

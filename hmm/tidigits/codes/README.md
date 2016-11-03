@@ -39,7 +39,8 @@
 1. No need to create config file for HERest ... command.  
 
 Regarding `$ HERest ...`  
-1. We need to create mlf file with following format
+1. We need to create mlf file with following format  
+  
 \#!MLF!#  
 "*/14a.lab"  
 one  

@@ -3,16 +3,22 @@ var path =  require('path');
 var _ = require('lodash');
 var LOG = 0;
 
+/*
+ * 1. Copies mfcc files after removing first line
+ * 2. cteates .mlf file
+ * 3. creates .scp file
+ */
+
 function f1() {
-  var dirpath = './../data/tidigit/train/man';
-  var MLF_File = './../io/created/mlf/man.mlf'
+  var dirpath = './../data/tidigit/test/man';
+  var MLF_File = './../io/created/test/mlf/man.mlf';
   createMLF(dirpath, MLF_File);
   console.log('CREATING man.mlf')
 }
 
 function f2() {
-  var dirpath = './../data/tidigit/train/woman';
-  var MLF_File = './../io/created/mlf/woman.mlf'
+  var dirpath = './../data/tidigit/test/woman';
+  var MLF_File = './../io/created/test/mlf/woman.mlf';
   createMLF(dirpath, MLF_File);
   console.log('CREATING woman.mlf')
 }
@@ -75,11 +81,11 @@ function processFiles(files, dpath, data, MLF_File) {
 
       // console.log(data.join(''))
       // fs.writeFile(MLF_File, data.join(''), function (err) {
-        // if(err) console.log(err)
+      //   if(err) console.log(err)
 
-      runNextFun();
-      inc = 0;
-      // })
+        runNextFun();
+        inc = 0;
+      // });
 
     }
   })

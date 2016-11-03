@@ -31,7 +31,7 @@ printf "Step 3 => Expanding the word transcriptions into model transcriptions\n"
 printf "\$_>: HLEd -l '*' -d dict -i io/models/models0.mlf io/created/mkphones0.led io/created/mlf/man.mlf\n"
 printf "\$_>: HLEd -l '*' -d dict -i io/models/models1.mlf io/created/mkphones0.led io/created/mlf/woman.mlf\n\n"
 
-HLEd -l '*' -d dict -i io/models/models0.mlf io/created/mkphones0.led io/created/mlf/all.mlf
+# HLEd -l '*' -d dict -i io/models/models0.mlf io/created/mkphones0.led io/created/mlf/all.mlf
 
 
 echo "-----------------INFO--------------------"
@@ -41,12 +41,17 @@ printf "\$_>: HCopy -T 1 -C io/created/config -S io/created/scp/woman.scp\n\n"
 
 # HCompV -C io/created/config -f 0.01 -m -S io/created/train/man.scp -M hmm0 io/created/proto
 
-# -> HCompV -f 0.01 -m -S train.scp -M hmm0 proto # in hmm folder
+HCompV -f 0.01 -m -S all.scp -M hmm0 proto # in hmm folder
  
 
-# HERest  -I all.mlf -S all.scp -H hmm0/macros -H hmm0/hmmdefs -M hmm1 models0
-# HERest  -I all.mlf -S all.scp -H hmm1/macros -H hmm1/hmmdefs -M hmm2 models0
-# HERest  -I all.mlf -S all.scp -H hmm2/macros -H hmm2/hmmdefs -M hmm3 models0
+HERest  -I all.mlf -S all.scp -H hmm0/macros -H hmm0/hmmdefs -M hmm1 models0
+HERest  -I all.mlf -S all.scp -H hmm1/macros -H hmm1/hmmdefs -M hmm2 models0
+HERest  -I all.mlf -S all.scp -H hmm2/macros -H hmm2/hmmdefs -M hmm3 models0
+HERest  -I all.mlf -S all.scp -H hmm3/macros -H hmm3/hmmdefs -M hmm4 models0
+
+HVite -H hmm3/macros -H hmm3/hmmdefs -S test.scp -l '*' -i result.mlf -w ../../gen/wordnet ../../gen/dict models0
+
+HResults -I testref.mlf models0 result.mlf
 
 
 

@@ -4,15 +4,19 @@ var _ = require('lodash');
 var LOG = 0;
 
 function f1() {
-  var dirpath = './../data/processed/train/man'; // tigit -> processed
-  var MLF_File = './../io/created/mlf/man.mlf'
+  var dirpath = './../data/processed/test/man'; // tigit -> processed
+  // var dirpath = './../data/processed/train/man'; // tigit -> processed
+  var MLF_File = './../io/created/test/mlf/man.mlf'
+  // var MLF_File = './../io/created/mlf/man.mlf'
   createMLF(dirpath, MLF_File);
   console.log('CREATING man.mlf')
 }
 
 function f2() {
-  var dirpath = './../data/processed/train/woman'; // tigit -> processed
-  var MLF_File = './../io/created/mlf/woman.mlf'
+  var dirpath = './../data/processed/test/woman'; // tigit -> processed
+  // var dirpath = './../data/processed/train/woman'; // tigit -> processed
+  var MLF_File = './../io/created/test/mlf/woman.mlf'
+  // var MLF_File = './../io/created/mlf/woman.mlf'
   createMLF(dirpath, MLF_File);
   console.log('CREATING woman.mlf')
 }
@@ -132,7 +136,7 @@ function putFileInfo(filePath, fname, data) {
   // str +=  filePath + '\n';
   // console.log(str)
   
-  // str += 'sil\n';
+  str += 'sil\n';
 
   var name = fname.slice(0, -5);
   for (var i = 0; i < name.length; i++) {
@@ -141,7 +145,7 @@ function putFileInfo(filePath, fname, data) {
     }
   }
 
-  // str += 'sil\n';
+  str += 'sil\n';
 
   str += '.\n';
 
