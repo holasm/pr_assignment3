@@ -2,8 +2,13 @@ import socket
 import sys
 import time
 
-def processBuf(buf, client):
+
+def processBuf(client, buf='', ):
   client.send(buf)
+  buf = ''
+
+def getClient(client, address):
+  print 'New connection from ' + str(address)
 
 def test_socket_modes():
   host_name = socket.gethostname()
@@ -17,16 +22,16 @@ def test_socket_modes():
   sock.bind((ip_addr, port))
   socket_address = sock.getsockname()
   print "Trivial Server launched on socket: %s" %str(socket_address)
-  buf = ''
   while(1):
     time.sleep(0.002)
     sock.listen(1)
 
     client, address = sock.accept()
+    getClient(client, address)
     data = client.recv(2048)
     if data:
       buf += data
-      processBuf(buf, client)
+      processBuf(client, buf)
     client.close()
 
 
