@@ -12,10 +12,15 @@
 -> HDMan ...  
 4. create {man.mlf, woman.mlf} file  
 5. create {man.scp, woman.scp} file  
+6. merge the .mlf files
 -> HCopy ...  
-6. create {train.scp} file  √  
-7. create {proto} file  √  
+7. create {train.scp} file  √  
+8. create {proto} file  √  
 -> HCompV ...  
+9. create {hmmdefs} file
+10. no need to create {macros} file. we can use {vFloors} file
+11. create the mlf
+-> HERest ... (repeat 3 or more times)  
 
 
 ##Status
@@ -26,7 +31,6 @@
 
 ##Todo
 ----------------------------
--> HERest ... (repeat 3 or more times)  
 -> HVite ...  
 -> HResults ...  
 
@@ -34,23 +38,23 @@
 -----------------------------
 1. No need to create config file for HERest ... command.  
 
-Regarding `__ HERest __`  
+Regarding `$ HERest ...`  
 1. We need to create mlf file with following format
-#!MLF!#
-"*/14a.lab"
-one
-four
-.
-"*/15z2za.lab"
-one
-five
-two
-.
-"*/16a.lab"
-one
-six
-...
-
+\#!MLF!#  
+"*/14a.lab"  
+one  
+four  
+.  
+"*/15z2za.lab"  
+one  
+five  
+two  
+.  
+"*/16a.lab"  
+one  
+six  
+...  
+   
 ***here "*/14a.lab" does not indicate any file, it indicates that the file 14a.htk is containg   
 information about one and four in a sequence. Here 14a.htk is created using a matlab script or   
 other means from mfcc files, created from speech audio. .mfcc files contains the features   
