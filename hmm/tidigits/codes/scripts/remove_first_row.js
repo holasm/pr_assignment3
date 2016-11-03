@@ -95,8 +95,12 @@ function putFileInfo(filePath, fname, data) {
     if (!fs.existsSync(processedFilePath.slice(0, -fname.length))){
       fs.mkdirSync(processedFilePath.slice(0, -fname.length));
     }
-    // console.log(processedFilePath)
-    fs.writeFile(processedFilePath, data.slice(newLine+1));
     
+    RE = /([0-9])/gi;
+
+    if(fname.search(RE) >= 0){
+      // console.log(processedFilePath)
+      fs.writeFile(processedFilePath, data.slice(newLine+1));
+    }
   })
 }

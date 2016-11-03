@@ -1,9 +1,9 @@
-HMM (HTK)
+#HMM (HTK)
 ############################
 => TIDIGITS Dataset (https://github.com/holasm/pr_assignment3/tree/master/hmm_tigits)
 ############################
 
-#Completed
+##Completed
 ----------------------------
 1. Create {grammer} file  
 -> HParse ...  
@@ -18,18 +18,45 @@ HMM (HTK)
 -> HCompV ...  
 
 
-#Status
+##Status
 ----------------------------
-##Stuck at
+###Stuck at
 
 
 
-#Todo
+##Todo
 ----------------------------
 -> HERest ... (repeat 3 or more times)  
--> HHEd ...  
 -> HVite ...  
 -> HResults ...  
+
+##Notes
+-----------------------------
+1. No need to create config file for HERest ... command.  
+
+Regarding `__ HERest __`  
+1. We need to create mlf file with following format
+#!MLF!#
+"*/14a.lab"
+one
+four
+.
+"*/15z2za.lab"
+one
+five
+two
+.
+"*/16a.lab"
+one
+six
+...
+
+***here "*/14a.lab" does not indicate any file, it indicates that the file 14a.htk is containg   
+information about one and four in a sequence. Here 14a.htk is created using a matlab script or   
+other means from mfcc files, created from speech audio. .mfcc files contains the features   
+extracted from audio files.
+
+NOTE: Do not give the path of .htk/.mfcc/.mfc or any other file.
 
 #Resolved issues
 -----------------------------
@@ -44,3 +71,10 @@ ERROR [+6313]  OpenParmChannel: cannot read HTK Header in File /Users/subhasis/D
 
 ###2 .
 -> HCompV 
+No need to do HCompV ..
+
+###3 .
+-> HHEd ...  
+No need to do HHEd ..
+
+###4 .

@@ -44,7 +44,9 @@ printf "\$_>: HCopy -T 1 -C io/created/config -S io/created/scp/woman.scp\n\n"
 # -> HCompV -f 0.01 -m -S train.scp -M hmm0 proto # in hmm folder
  
 
-#***HERest  -I all.mlf -S all.scp -H hmm0/macros -H hmm0/hmmdefs -M hmm1 models0
+# HERest  -I all.mlf -S all.scp -H hmm0/macros -H hmm0/hmmdefs -M hmm1 models0
+# HERest  -I all.mlf -S all.scp -H hmm1/macros -H hmm1/hmmdefs -M hmm2 models0
+# HERest  -I all.mlf -S all.scp -H hmm2/macros -H hmm2/hmmdefs -M hmm3 models0
 
 
 

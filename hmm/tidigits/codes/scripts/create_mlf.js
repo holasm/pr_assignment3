@@ -127,8 +127,12 @@ var names = {
 };
 
 function putFileInfo(filePath, fname, data) {
-  var str = '"' + path.resolve(__dirname, filePath) + '"\n';
+  // var str = '"' + path.resolve(__dirname, filePath) + '"\n';
+  var str = '"*/' + fname.slice(0, -4) + 'lab' + '"\n';
   // str +=  filePath + '\n';
+  // console.log(str)
+  
+  // str += 'sil\n';
 
   var name = fname.slice(0, -5);
   for (var i = 0; i < name.length; i++) {
@@ -137,9 +141,11 @@ function putFileInfo(filePath, fname, data) {
     }
   }
 
+  // str += 'sil\n';
+
   str += '.\n';
 
-  // console.log(str)
+  console.log(str)
 
   data.push(str);
 }

@@ -84,7 +84,7 @@ function processFiles(files, dpath, data, train, SCP_File, TRAIN_SCP_File) {
       // console.log(data.join(''))
       fs.writeFile(SCP_File, data.join(''), function (err) {
         if(err) console.log(err)
-          
+        
         fs.writeFile(TRAIN_SCP_File, train.join(''), function (err) {
           if(err) console.log(err)
             
@@ -103,11 +103,18 @@ function putFileInfo(filePath, fname, data, train) {
 
   // the mfcc absolute file path
   var savePath = absFilePath;// = path.resolve(__dirname, '../io/gen/scp');
-  savePath = savePath.slice(0, -4) + 'mfc';
+  savePath = savePath.slice(0, -4) + 'mfcc';
 
   var str = absFilePath +'        '+ savePath + '\n';
-  var trainStr = absFilePath.slice(0, -4) + 'htk\n';
+  var trainStr = absFilePath.slice(0, -4) + 'mfcc\n';
   // console.log(str)
-  data.push(str);
-  train.push(trainStr);
+
+  // if the fname does not contain digits dont push
+
+  RE = /([0-9])/gi;
+
+  if (fname.search(RE) >= 0) {
+    data.push(str);
+    train.push(trainStr);
+  }
 }
