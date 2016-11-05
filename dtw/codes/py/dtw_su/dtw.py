@@ -8,7 +8,7 @@ def my_custom_norm(x, y):
   ret = 0
   for p in z:
     ret = ret + p*p
-  return ret
+  return ret**0.5
 
 def cal_dtw(arr_1, arr_2):
   dist, cost = dtw_web.dtw(arr_1, arr_2, dist=my_custom_norm)
