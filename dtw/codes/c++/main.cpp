@@ -208,143 +208,143 @@ string Classify(string & pathOfTest, vector<vector<vector<double> * > * > & allT
   return ret;
 }
 
-int main(int argc, char const *argv[])
-{
-  string s1 = "./../../data/processed/test/Coimbatore.mfcc/1056_Coimbatore_.mfcc";
-  string s2 = "./../../data/processed/train/Ariyalur.mfcc/1044Ariyalur_2.mfcc";
-  ofstream output_1, output_2;
-
-  vector<vector<double> * > * test = LoadFile(s1);
-  vector<vector<double> * > * train = LoadFile(s2);
-
-  // cout << Norm((*test)[1], (*test)[2]) << endl;
-
-  // output_1.open("test_1.txt");
-  // for(auto vec: *test){
-  //   for(auto d: *vec){
-  //     output_1 << d << " ";
-  //   }
-  //   output_1 << "\n";
-  // }
-  // output_1.close();
-
-  // output_2.open("test_2.txt");
-  // for(auto vec: *train){
-  //   for(auto d: *vec){
-  //     output_2 << d << " ";
-  //   }
-  //   output_2 << "\n";
-  // }
-  // output_2.close();
-
-  cout << DTW(test, train) << endl;
-
-  return 0;
-}
-
 // int main(int argc, char const *argv[])
 // {
-//   string testFiles = "./../../data/processed/test.txt";
-//   string trainFiles = "./../../data/processed/train.txt";
-//   vector<vector<vector<double> * > * > allTrain;
-//   vector<string> allTrainPaths, result;
-  
-//   string line1, line2;
-//   ifstream trainListFile, testListFiles;
-//   ofstream testResultFile;
+//   string s1 = "./../../data/processed/test/Coimbatore.mfcc/1056_Coimbatore_.mfcc";
+//   string s2 = "./../../data/processed/train/Ariyalur.mfcc/1044Ariyalur_2.mfcc";
+//   ofstream output_1, output_2;
 
+//   vector<vector<double> * > * test = LoadFile(s1);
+//   vector<vector<double> * > * train = LoadFile(s2);
 
-//   // ----------------------------------------
-//   // load all training data in a huge vector
-//   // ----------------------------------------
-//   trainListFile.open(trainFiles); // open file list file
-//   if(trainListFile.is_open()){
-//     while ( getline(trainListFile, line1) )
-//     {
-//       allTrain.push_back(LoadFile(line1));
-//       allTrainPaths.push_back(line1);
-//     } // while for fileList file
+//   // cout << Norm((*test)[1], (*test)[2]) << endl;
 
-//     trainListFile.close();
-//   } // if
-
-//   if(LOG_ALL){
-//     auto f1 = allTrain[1];
-//     for(auto f2: *f1){
-//       for(auto f3: *f2){
-//         cout << f3 << " ";
-//       }
-//       cout << endl;
-//     }
-//   }
-
-//   // -------------------------------------------
-//   // classify all test files
-//   // -------------------------------------------
-  
-//     //-----------------------------------
-//     // testResultFile.open("./../../su/result.json", ios::app);
-//     // testResultFile << "{\n";
-
-//     // testListFiles.open(testFiles);
-    
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-    
-//     // cout << line1 << endl;
-//     // testResultFile << Classify(line1, allTrain, allTrainPaths) << endl;
-    
-//     // getline(testListFiles, line1);
-//     // getline(testListFiles, line1);
-
-
-//     // cout << line1 << endl;
-//     // testResultFile << Classify(line1, allTrain, allTrainPaths) << endl;
-
-//     // trainListFile.close();
-//     //-----------------------------------
-
-//   testResultFile.open("./../../su/result.json", ios::app);
-//   testResultFile << "{\n";
-
-//   int count = 0;
-
-//   testListFiles.open(testFiles);
-//   if(testListFiles.is_open()){
-//     while(getline(testListFiles, line1)){
-//       // √ calc dtw distance from one tet to all training file √
-//       line2 = Classify(line1, allTrain, allTrainPaths);
-
-//       testResultFile << line2 <<",\n"; // save in file
-
-//       result.push_back(line2);
-//       count++;
-//       cout << count << endl;
-//     }
-//     trainListFile.close();
-//   }
-
-//   // cout << result.size() << endl;
-
-//   // for(auto item: result){
-//   //   testResultFile << item <<",\n";
+//   // output_1.open("test_1.txt");
+//   // for(auto vec: *test){
+//   //   for(auto d: *vec){
+//   //     output_1 << d << " ";
+//   //   }
+//   //   output_1 << "\n";
 //   // }
+//   // output_1.close();
 
-//   testResultFile << "}";
+//   // output_2.open("test_2.txt");
+//   // for(auto vec: *train){
+//   //   for(auto d: *vec){
+//   //     output_2 << d << " ";
+//   //   }
+//   //   output_2 << "\n";
+//   // }
+//   // output_2.close();
 
-//   testResultFile.close();
-//   // save the result in a file
-//   // later process output
+//   cout << DTW(test, train) << endl;
 
 //   return 0;
 // }
+
+int main(int argc, char const *argv[])
+{
+  string testFiles = "./../../data/processed/test.txt";
+  string trainFiles = "./../../data/processed/train.txt";
+  vector<vector<vector<double> * > * > allTrain;
+  vector<string> allTrainPaths, result;
+  
+  string line1, line2;
+  ifstream trainListFile, testListFiles;
+  ofstream testResultFile;
+
+
+  // ----------------------------------------
+  // load all training data in a huge vector
+  // ----------------------------------------
+  trainListFile.open(trainFiles); // open file list file
+  if(trainListFile.is_open()){
+    while ( getline(trainListFile, line1) )
+    {
+      allTrain.push_back(LoadFile(line1));
+      allTrainPaths.push_back(line1);
+    } // while for fileList file
+
+    trainListFile.close();
+  } // if
+
+  if(LOG_ALL){
+    auto f1 = allTrain[1];
+    for(auto f2: *f1){
+      for(auto f3: *f2){
+        cout << f3 << " ";
+      }
+      cout << endl;
+    }
+  }
+
+  // -------------------------------------------
+  // classify all test files
+  // -------------------------------------------
+  
+    //-----------------------------------
+    // testResultFile.open("./../../su/result.json", ios::app);
+    // testResultFile << "{\n";
+
+    // testListFiles.open(testFiles);
+    
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+    
+    // cout << line1 << endl;
+    // testResultFile << Classify(line1, allTrain, allTrainPaths) << endl;
+    
+    // getline(testListFiles, line1);
+    // getline(testListFiles, line1);
+
+
+    // cout << line1 << endl;
+    // testResultFile << Classify(line1, allTrain, allTrainPaths) << endl;
+
+    // trainListFile.close();
+    //-----------------------------------
+
+  testResultFile.open("./../../su/result.json", ios::app);
+  testResultFile << "{\n";
+
+  int count = 0;
+
+  testListFiles.open(testFiles);
+  if(testListFiles.is_open()){
+    while(getline(testListFiles, line1)){
+      // √ calc dtw distance from one tet to all training file √
+      line2 = Classify(line1, allTrain, allTrainPaths);
+
+      testResultFile << line2 <<",\n"; // save in file
+
+      result.push_back(line2);
+      count++;
+      cout << count << endl;
+    }
+    trainListFile.close();
+  }
+
+  // cout << result.size() << endl;
+
+  // for(auto item: result){
+  //   testResultFile << item <<",\n";
+  // }
+
+  testResultFile << "}";
+
+  testResultFile.close();
+  // save the result in a file
+  // later process output
+
+  return 0;
+}

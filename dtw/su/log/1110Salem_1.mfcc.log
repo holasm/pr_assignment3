@@ -1,0 +1,1617 @@
+2
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_4.mfcc
+Calculated distance is ->107.068377197
+3
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1312_Erode_.mfcc
+Calculated distance is ->143.079302084
+4
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1233Karur_1.mfcc
+Calculated distance is ->179.458457819
+5
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1236Karur_1.mfcc
+Calculated distance is ->443.243043918
+6
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1151Thiruchirappalli_2.mfcc
+Calculated distance is ->103.875338901
+7
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1205Coimbatore_1.mfcc
+Calculated distance is ->119.762362644
+8
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1140Thiruchirappalli_1.mfcc
+Calculated distance is ->137.244578636
+9
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1344_Madurai_1.mfcc
+Calculated distance is ->125.05242244
+10
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1203Coimbatore_1.mfcc
+Calculated distance is ->139.278039637
+11
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1244_Namakkal_.mfcc
+Calculated distance is ->63.666622722
+12
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1315_Thanjavur_1.mfcc
+Calculated distance is ->240.282711755
+13
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1288Villupuram_1.mfcc
+Calculated distance is ->112.777400366
+14
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1225Coimbatore_1.mfcc
+Calculated distance is ->138.88795686
+15
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1187_Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->142.282805822
+16
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1341_Ariyalur_.mfcc
+Calculated distance is ->152.780442745
+17
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1128_Salem_.mfcc
+Calculated distance is ->97.1969630011
+18
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1136_Salem_.mfcc
+Calculated distance is ->59.2713698522
+19
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1214_Virudhunagar_1.mfcc
+Calculated distance is ->96.4018296068
+20
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1337Thiruvarur_1.mfcc
+Calculated distance is ->118.839032243
+21
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1354_Perambalur_.mfcc
+Calculated distance is ->110.324125385
+22
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1334Madurai_1.mfcc
+Calculated distance is ->136.680712193
+23
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1354_Perambalur_1.mfcc
+Calculated distance is ->116.333278673
+24
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1204_Tirupur_.mfcc
+Calculated distance is ->124.88750472
+25
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1119Salem_2.mfcc
+Calculated distance is ->239.287606761
+26
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1223Virudhunagar_1.mfcc
+Calculated distance is ->117.665334469
+27
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1187_Karur_.mfcc
+Calculated distance is ->112.724633071
+28
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1283Dindigul_1.mfcc
+Calculated distance is ->110.210215008
+29
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1122Salem_2.mfcc
+Calculated distance is ->107.28020532
+30
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1204_Coimbatore_3.mfcc
+Calculated distance is ->125.819416492
+31
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1229_Karur_.mfcc
+Calculated distance is ->89.4385380934
+32
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1145_Thiruchirappalli_2.mfcc
+Calculated distance is ->338.701099762
+33
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1092Coimbatore_2.mfcc
+Calculated distance is ->80.2732336584
+34
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1220Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->92.8093016737
+35
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1331_Thiruvarur_.mfcc
+Calculated distance is ->384.335245864
+36
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1317_Perambalur_2.mfcc
+Calculated distance is ->242.883445036
+37
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1188_Coimbatore_.mfcc
+Calculated distance is ->131.732358431
+38
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1244Coimbatore_1.mfcc
+Calculated distance is ->110.021618011
+39
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_3.mfcc
+Calculated distance is ->101.64864401
+40
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1322Thanjavur_1.mfcc
+Calculated distance is ->146.179938187
+41
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_.mfcc
+Calculated distance is ->134.963493857
+42
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1087Coimbatore_2.mfcc
+Calculated distance is ->69.6655058817
+43
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1338_Perambalur_4.mfcc
+Calculated distance is ->163.942230834
+44
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1357_Villupuram_1.mfcc
+Calculated distance is ->69.8674371875
+45
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1294Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->128.427954012
+46
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1118_Theni_.mfcc
+Calculated distance is ->125.277025921
+47
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1314Thiruvarur_1.mfcc
+Calculated distance is ->369.477562851
+48
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1176_Erode_.mfcc
+Calculated distance is ->116.878292657
+49
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1352_Perambalur_1.mfcc
+Calculated distance is ->95.6024550527
+50
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1353_Perambalur_2.mfcc
+Calculated distance is ->359.392618792
+51
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1325Erode_2.mfcc
+Calculated distance is ->101.788798099
+52
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1214Virudhunagar_2.mfcc
+Calculated distance is ->112.645738826
+53
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1327Thirunelveli_2.mfcc
+Calculated distance is ->127.701681896
+54
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1195Virudhunagar_1.mfcc
+Calculated distance is ->80.0647520898
+55
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1144_Thiruchirappalli_1.mfcc
+Calculated distance is ->118.873782826
+56
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1353_Perambalur_1.mfcc
+Calculated distance is ->110.582185574
+57
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1136_Salem_2.mfcc
+Calculated distance is ->75.1873681999
+58
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1296Thanjavur_1.mfcc
+Calculated distance is ->107.912065437
+59
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1209_Virudhunagar_.mfcc
+Calculated distance is ->86.373876127
+60
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1110_Theni_.mfcc
+Calculated distance is ->81.1963574577
+61
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1339_Thirunelveli_1.mfcc
+Calculated distance is ->130.304195122
+62
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1187Virudhunagar_2.mfcc
+Calculated distance is ->116.99827653
+63
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1073_Erode_1.mfcc
+Calculated distance is ->113.23481152
+64
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207_Coimbatore_6.mfcc
+Calculated distance is ->124.209661399
+65
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1348_Thirunelveli_1.mfcc
+Calculated distance is ->95.6201262283
+66
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1111_Theni_.mfcc
+Calculated distance is ->100.827486357
+67
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1119Salem_1.mfcc
+Calculated distance is ->266.868124875
+68
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1357Villupuram_2.mfcc
+Calculated distance is ->99.6981424407
+69
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1336Thanjavur_2.mfcc
+Calculated distance is ->107.943778662
+70
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1107Erode_2.mfcc
+Calculated distance is ->113.709668465
+71
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349_Thirunelveli_4.mfcc
+Calculated distance is ->138.636630558
+72
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1319Cuddalore_2.mfcc
+Calculated distance is ->87.4193153909
+73
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1188Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->142.494556848
+74
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1240Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->116.469555768
+75
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1228_Karur_3.mfcc
+Calculated distance is ->510.114100366
+76
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1074Erode_1.mfcc
+Calculated distance is ->131.282417773
+77
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1322_Perambalur_4.mfcc
+Calculated distance is ->111.039151984
+78
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_1.mfcc
+Calculated distance is ->101.644611442
+79
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_.mfcc
+Calculated distance is ->361.799355278
+80
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1150_Thiruchirappalli_.mfcc
+Calculated distance is ->411.966204736
+81
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1337_Thiruvarur_.mfcc
+Calculated distance is ->86.650119841
+82
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349_Thirunelveli_2.mfcc
+Calculated distance is ->188.019338605
+83
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_3.mfcc
+Calculated distance is ->92.3811309745
+84
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1284Dindigul_1.mfcc
+Calculated distance is ->62.2867895932
+85
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1188Karur_1.mfcc
+Calculated distance is ->156.357634744
+86
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1187Karur_2.mfcc
+Calculated distance is ->127.315929129
+87
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_5.mfcc
+Calculated distance is ->111.104040472
+88
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1293Thiruchirappalli_2.mfcc
+Calculated distance is ->51.1798427893
+89
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1151_Thiruchirappalli_.mfcc
+Calculated distance is ->81.3326792478
+90
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1317Thiruvarur_1.mfcc
+Calculated distance is ->107.416095679
+91
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1225Villupuram_1.mfcc
+Calculated distance is ->122.83035758
+92
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1343Thirunelveli_1.mfcc
+Calculated distance is ->156.234772364
+93
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1351_Ariyalur_.mfcc
+Calculated distance is ->90.4901193735
+94
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1136Salem_1.mfcc
+Calculated distance is ->84.9671585274
+95
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1198Karur_1.mfcc
+Calculated distance is ->109.019269341
+96
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_.mfcc
+Calculated distance is ->117.257483143
+97
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1317Cuddalore_2.mfcc
+Calculated distance is ->139.210315463
+98
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1088Coimbatore_2.mfcc
+Calculated distance is ->156.953101883
+99
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1225_Erode_.mfcc
+Calculated distance is ->136.384196166
+100
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1115_Salem_.mfcc
+Calculated distance is ->126.065744614
+101
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1104_Erode_maavat$t$am_.mfcc
+Calculated distance is ->144.683246011
+102
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1226Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->166.015783113
+103
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1355_Perambalur_2.mfcc
+Calculated distance is ->202.111315619
+104
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1145Thiruchirappalli_1.mfcc
+Calculated distance is ->328.016089352
+105
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_1.mfcc
+Calculated distance is ->310.058009308
+106
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1305_Ariyalur_.mfcc
+Calculated distance is ->332.608332898
+107
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1319Thiruvarur_1.mfcc
+Calculated distance is ->116.530687825
+108
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1147_Thiruchirappalli_.mfcc
+Calculated distance is ->81.3490135196
+109
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1078_Erode_1.mfcc
+Calculated distance is ->268.086402804
+110
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1213Virudhunagar_2.mfcc
+Calculated distance is ->128.133907972
+111
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1340_Perambalur_1.mfcc
+Calculated distance is ->89.6037105735
+112
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1265Dindigul_1.mfcc
+Calculated distance is ->140.368812036
+113
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1211_Karur_1.mfcc
+Calculated distance is ->113.052078927
+114
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1125Salem_2.mfcc
+Calculated distance is ->107.828710967
+115
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1262Dindigul_1.mfcc
+Calculated distance is ->109.027133016
+116
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1202Dindigul_1.mfcc
+Calculated distance is ->128.010532253
+117
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1283Theni_2.mfcc
+Calculated distance is ->110.639985733
+118
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1144Thiruchirappalli_1.mfcc
+Calculated distance is ->135.280112844
+119
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1191Coimbatore_1.mfcc
+Calculated distance is ->105.947293902
+120
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1210_Coimbatore_.mfcc
+Calculated distance is ->117.15863542
+121
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1331Thiruvarur_1.mfcc
+Calculated distance is ->283.849308983
+122
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1348Cuddalore_2.mfcc
+Calculated distance is ->72.9413206574
+123
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1088_Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->200.777536234
+124
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1277Thiruvannamalai_1.mfcc
+Calculated distance is ->125.112390232
+125
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1166Salem_1.mfcc
+Calculated distance is ->87.8392976575
+126
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1272_Thiruvannamalai_1.mfcc
+Calculated distance is ->108.87905451
+127
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1199_Erode_maavat$t$am_1.mfcc
+Calculated distance is ->132.902497847
+128
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1197Theni_2.mfcc
+Calculated distance is ->119.323418667
+129
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1306Ariyalur_1.mfcc
+Calculated distance is ->191.900661668
+130
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1355Thiruchirappalli_1.mfcc
+Calculated distance is ->193.958826108
+131
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/Coimbatore_.mfcc
+Calculated distance is ->112.128591087
+132
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1142_Thiruchirappalli_1.mfcc
+Calculated distance is ->333.524479998
+133
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1118Theni_1.mfcc
+Calculated distance is ->159.587379958
+134
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1151Thiruchirappalli_1.mfcc
+Calculated distance is ->81.3326792478
+135
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1222Virudhunagar_2.mfcc
+Calculated distance is ->159.052064289
+136
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1116Coimbatore_2.mfcc
+Calculated distance is ->116.587831998
+137
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_3.mfcc
+Calculated distance is ->117.257483143
+138
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1078_Erode_maavat$t$am_2.mfcc
+Calculated distance is ->126.024012946
+139
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1221Coimbatore_maavat$t$am_1.mfcc
+Calculated distance is ->300.847783358
+140
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1282_Thiruvannamalai_1.mfcc
+Calculated distance is ->124.257545945
+141
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1347Namakkal_2.mfcc
+Calculated distance is ->105.376511797
+142
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1324Thirunelveli_1.mfcc
+Calculated distance is ->191.517287689
+143
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1090Coimbatore_maavat$t$am_4.mfcc
+Calculated distance is ->143.110643752
+144
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1219Erode_1.mfcc
+Calculated distance is ->120.594412348
+145
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1194Virudhunagar_2.mfcc
+Calculated distance is ->92.9777895743
+146
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1080_Erode_maavat$t$am_.mfcc
+Calculated distance is ->256.47661374
+147
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1199Erode_maavat$t$am_.mfcc
+Calculated distance is ->149.490248512
+148
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1165_Coimbatore_.mfcc
+Calculated distance is ->118.690217582
+149
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1325Thirunelveli_1.mfcc
+Calculated distance is ->128.036770134
+150
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1348_Coimbatore_.mfcc
+Calculated distance is ->520.238234947
+151
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1282_Madurai_.mfcc
+Calculated distance is ->141.717335835
+152
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1194Virudhunagar_1.mfcc
+Calculated distance is ->73.6081468162
+153
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1228_Karur_.mfcc
+Calculated distance is ->253.806280875
+154
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1298_Madurai_.mfcc
+Calculated distance is ->74.4451274441
+155
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1211_Karur_.mfcc
+Calculated distance is ->113.052078927
+156
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1076Erode_1.mfcc
+Calculated distance is ->201.385403729
+157
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1181Virudhunagar_2.mfcc
+Calculated distance is ->104.812695778
+158
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1332Thanjavur_1.mfcc
+Calculated distance is ->54.089076743
+159
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1075_Erode_maavat$t$am_3.mfcc
+Calculated distance is ->140.494502848
+160
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1201_Tirupur_6.mfcc
+Calculated distance is ->296.591616786
+161
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1244_Tirupur_.mfcc
+Calculated distance is ->110.375780299
+162
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1214_Virudhunagar_.mfcc
+Calculated distance is ->96.4018296068
+163
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1246Coimbatore_1.mfcc
+Calculated distance is ->129.031709046
+164
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1190_Coimbatore_.mfcc
+Calculated distance is ->123.837185761
+165
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1260_Dindigul_1.mfcc
+Calculated distance is ->166.189751036
+166
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1221Virudhunagar_1.mfcc
+Calculated distance is ->111.614459516
+167
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1150Thiruchirappalli_1.mfcc
+Calculated distance is ->303.444052697
+168
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1150_Thiruchirappalli_1.mfcc
+Calculated distance is ->280.163682931
+169
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1348Thirunelveli_1.mfcc
+Calculated distance is ->115.307476796
+170
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1242Coimbatore_1.mfcc
+Calculated distance is ->84.8011702971
+171
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1310Cuddalore_2.mfcc
+Calculated distance is ->167.038118095
+172
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1125Salem_1.mfcc
+Calculated distance is ->76.0957780065
+173
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1225_Villupuram_.mfcc
+Calculated distance is ->178.657721613
+174
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1141Erode_1.mfcc
+Calculated distance is ->61.4127751653
+175
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1325Thirunelveli_2.mfcc
+Calculated distance is ->137.670068158
+176
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1298Madurai_2.mfcc
+Calculated distance is ->74.712386682
+177
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1193Coimbatore_maavat$t$am_1.mfcc
+Calculated distance is ->130.945234757
+178
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1120_Salem_.mfcc
+Calculated distance is ->317.914710453
+179
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1312Thiruvarur_1.mfcc
+Calculated distance is ->120.495326202
+180
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1138Erode_maavat$t$am_1.mfcc
+Calculated distance is ->173.06701278
+181
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1091Coimbatore_maavat$t$am_2.mfcc
+Calculated distance is ->163.063509276
+182
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_4.mfcc
+Calculated distance is ->81.8093373599
+183
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1243Coimbatore_1.mfcc
+Calculated distance is ->66.2814329675
+184
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1116Erode_1.mfcc
+Calculated distance is ->112.965180907
+185
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1210_Dindigul_.mfcc
+Calculated distance is ->152.948817928
+186
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1292Madurai_1.mfcc
+Calculated distance is ->246.917322593
+187
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1334Virudhunagar_2.mfcc
+Calculated distance is ->122.865006108
+188
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1221Erode_2.mfcc
+Calculated distance is ->151.001348124
+189
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1268Dindigul_1.mfcc
+Calculated distance is ->136.521586537
+190
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1282Villupuram_1.mfcc
+Calculated distance is ->131.998231215
+191
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1341_Perambalur_.mfcc
+Calculated distance is ->57.7083517698
+192
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1326Cuddalore_2.mfcc
+Calculated distance is ->107.837422728
+193
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1238Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->75.4461422842
+194
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1355_Perambalur_1.mfcc
+Calculated distance is ->224.003000136
+195
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_1.mfcc
+Calculated distance is ->116.201648619
+196
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1351_Perambalur_.mfcc
+Calculated distance is ->83.9392728631
+197
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1211Karur_1.mfcc
+Calculated distance is ->124.848858352
+198
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1177Coimbatore_1.mfcc
+Calculated distance is ->45.8981888463
+199
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1141Salem_1.mfcc
+Calculated distance is ->118.796439344
+200
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1332Thiruchirappalli_2.mfcc
+Calculated distance is ->81.2459568154
+201
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1320Cuddalore_2.mfcc
+Calculated distance is ->124.111265067
+202
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1201_Tirupur_5.mfcc
+Calculated distance is ->119.803066771
+203
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1356_Ariyalur_.mfcc
+Calculated distance is ->95.4586663933
+204
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1327_Thirunelveli_.mfcc
+Calculated distance is ->127.701681896
+205
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1206_Tirupur_.mfcc
+Calculated distance is ->136.653732955
+206
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_1.mfcc
+Calculated distance is ->122.556052286
+207
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1076_Erode_1.mfcc
+Calculated distance is ->174.346221039
+208
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1206_Tirupur_1.mfcc
+Calculated distance is ->95.3309531439
+209
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_2.mfcc
+Calculated distance is ->520.387810594
+210
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349_Thirunelveli_3.mfcc
+Calculated distance is ->205.395041305
+211
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_4.mfcc
+Calculated distance is ->254.690071901
+212
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1137_Salem_3.mfcc
+Calculated distance is ->113.136537821
+213
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1298Madurai_1.mfcc
+Calculated distance is ->74.4451274441
+214
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1322_Perambalur_.mfcc
+Calculated distance is ->111.039151984
+215
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1172Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->108.580101089
+216
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1287_Villupuram_.mfcc
+Calculated distance is ->167.272476212
+217
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1199_Erode_maavat$t$am.mfcc
+Calculated distance is ->149.490248512
+218
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207_Coimbatore_3.mfcc
+Calculated distance is ->107.200266069
+219
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1317Thanjavur_1.mfcc
+Calculated distance is ->102.45728241
+220
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1072_Erode_maavat$t$am_3.mfcc
+Calculated distance is ->124.881541528
+221
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1129_Salem_.mfcc
+Calculated distance is ->94.8973298328
+222
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1280Theni_2.mfcc
+Calculated distance is ->118.202574062
+223
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1181Virudhunagar_1.mfcc
+Calculated distance is ->90.5641520301
+224
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1076_Erode_2.mfcc
+Calculated distance is ->179.339740711
+225
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1318Thiruvarur_1.mfcc
+Calculated distance is ->137.419923366
+226
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1217_Erode_1.mfcc
+Calculated distance is ->117.52530938
+227
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1208Coimbatore_2.mfcc
+Calculated distance is ->116.90190705
+228
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1111_Theni_1.mfcc
+Calculated distance is ->100.827486357
+229
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1283_Madurai_.mfcc
+Calculated distance is ->149.330720369
+230
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1312Cuddalore_2.mfcc
+Calculated distance is ->144.447182481
+231
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1244_Namakkal_1.mfcc
+Calculated distance is ->63.666622722
+232
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1242Karur_2.mfcc
+Calculated distance is ->125.680071189
+233
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1150_Thiruchirappalli_3.mfcc
+Calculated distance is ->411.966204736
+234
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_5.mfcc
+Calculated distance is ->108.500492334
+235
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1232_Virudhunagar_.mfcc
+Calculated distance is ->112.062457315
+236
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1206Coimbatore_1.mfcc
+Calculated distance is ->108.334402587
+237
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1235Dindigul_2.mfcc
+Calculated distance is ->110.990763702
+238
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1129Salem_1.mfcc
+Calculated distance is ->93.2219771081
+239
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1352_Perambalur_2.mfcc
+Calculated distance is ->156.638578789
+240
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1356_Perambalur_2.mfcc
+Calculated distance is ->111.095142474
+241
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1296_Thanjavur_.mfcc
+Calculated distance is ->100.12061031
+242
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_3.mfcc
+Calculated distance is ->97.1755880462
+243
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1073Erode_1.mfcc
+Calculated distance is ->120.712400299
+244
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1276_Thirunelveli_1.mfcc
+Calculated distance is ->185.90404202
+245
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1187Virudhunagar_1.mfcc
+Calculated distance is ->130.964940374
+246
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326_Thirunelveli_3.mfcc
+Calculated distance is ->113.084635621
+247
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1340_Perambalur_.mfcc
+Calculated distance is ->110.477449622
+248
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1351_Perambalur_1.mfcc
+Calculated distance is ->110.807973289
+249
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1339_Thirunelveli_3.mfcc
+Calculated distance is ->116.220743084
+250
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1146_Thiruchirappalli_.mfcc
+Calculated distance is ->110.121860111
+251
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1257Karur_1.mfcc
+Calculated distance is ->185.084359553
+252
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1205_Erode_1.mfcc
+Calculated distance is ->125.011746988
+253
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1216_Dindigul_.mfcc
+Calculated distance is ->126.515757627
+254
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1229Karur_2.mfcc
+Calculated distance is ->128.121352489
+255
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1210_Coimbatore_1.mfcc
+Calculated distance is ->106.203966303
+256
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1282_Thirunelveli_.mfcc
+Calculated distance is ->109.649168897
+257
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1187_Villupuram_.mfcc
+Calculated distance is ->122.026760681
+258
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1149Thiruchirappalli_1.mfcc
+Calculated distance is ->98.6127480731
+259
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1096_Erode_.mfcc
+Calculated distance is ->112.687630252
+260
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1291_Thiruvannamalai_2.mfcc
+Calculated distance is ->145.833720473
+261
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1321_Thiruchirappalli.mfcc
+Calculated distance is ->147.113040644
+262
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1288Ariyalur_2.mfcc
+Calculated distance is ->156.59950308
+263
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1148_Thiruchirappalli_2.mfcc
+Calculated distance is ->99.2626276671
+264
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_.mfcc
+Calculated distance is ->86.2635046826
+265
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1295_Villupuram_.mfcc
+Calculated distance is ->135.72744441
+266
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1339_Namakkal_.mfcc
+Calculated distance is ->129.744825568
+267
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1221Virudhunagar_2.mfcc
+Calculated distance is ->114.358780879
+268
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1188Virudhunagar_1.mfcc
+Calculated distance is ->94.5374825899
+269
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1313Thanjavur_1.mfcc
+Calculated distance is ->126.391682698
+270
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_2.mfcc
+Calculated distance is ->129.162033573
+271
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1113Erode_2.mfcc
+Calculated distance is ->111.97871483
+272
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1212Erode_maavat$t$am.mfcc
+Calculated distance is ->60.9023711999
+273
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1250Dindigul_1.mfcc
+Calculated distance is ->97.6789431841
+274
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1102Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->116.884615199
+275
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1234Karur_1.mfcc
+Calculated distance is ->106.229559605
+276
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1315Thanjavur_2.mfcc
+Calculated distance is ->284.672901689
+277
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1274Thirunelveli_1.mfcc
+Calculated distance is ->111.015075059
+278
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1122_Salem_.mfcc
+Calculated distance is ->119.343690319
+279
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1083_Erode_1.mfcc
+Calculated distance is ->95.5822673588
+280
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1088_Coimbatore_maavat$t$am_2.mfcc
+Calculated distance is ->141.728716008
+281
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1076_Erode_maavat$t$am_2.mfcc
+Calculated distance is ->153.070466994
+282
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1221_Coimbatore_maavat$t$am_2.mfcc
+Calculated distance is ->90.5555837123
+283
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1314Cuddalore_2.mfcc
+Calculated distance is ->132.28551564
+284
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1353Thiruchirappalli_1.mfcc
+Calculated distance is ->159.701646489
+285
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1348Thiruvarur_1.mfcc
+Calculated distance is ->297.713182333
+286
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1188_Karur_.mfcc
+Calculated distance is ->103.064888801
+287
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1226_Coimbatore_.mfcc
+Calculated distance is ->100.508943699
+288
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1232Virudhunagar_1.mfcc
+Calculated distance is ->105.319609608
+289
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1214Virudhunagar_1.mfcc
+Calculated distance is ->88.4281018494
+290
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1140Salem_1.mfcc
+Calculated distance is ->261.100723288
+291
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1320Villupuram_1.mfcc
+Calculated distance is ->153.745845318
+292
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1323Cuddalore_2.mfcc
+Calculated distance is ->123.828248586
+293
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1165_Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->116.086222984
+294
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1280Dindigul_1.mfcc
+Calculated distance is ->116.716247428
+295
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1217_Erode_.mfcc
+Calculated distance is ->195.642029772
+296
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1317_Thanjavur_.mfcc
+Calculated distance is ->322.299392967
+297
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1208Coimbatore_1.mfcc
+Calculated distance is ->88.6018772231
+298
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1323Thiruvarur_1.mfcc
+Calculated distance is ->87.1675685046
+299
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1216Karur_1.mfcc
+Calculated distance is ->115.215612338
+300
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1257Erode_maavat$t$am_.mfcc
+Calculated distance is ->75.9872301279
+301
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1072_Erode_1.mfcc
+Calculated distance is ->126.733539668
+302
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1204_Coimbatore_1.mfcc
+Calculated distance is ->200.168816361
+303
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1346Thirunelveli_1.mfcc
+Calculated distance is ->197.67597019
+304
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1264Villupuram_2.mfcc
+Calculated distance is ->127.859058847
+305
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1212Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->59.879425448
+306
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1072_Erode_2.mfcc
+Calculated distance is ->138.854284876
+307
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1352_Perambalur_.mfcc
+Calculated distance is ->76.097335558
+308
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1356_Ariyalur_1.mfcc
+Calculated distance is ->95.4586663933
+309
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1128Salem_2.mfcc
+Calculated distance is ->97.1969630011
+310
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1204_Coimbatore_4.mfcc
+Calculated distance is ->113.202510213
+311
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1124Erode_2.mfcc
+Calculated distance is ->87.7837097101
+312
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1201_Coimbatore_.mfcc
+Calculated distance is ->129.617255718
+313
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1338_Perambalur_2.mfcc
+Calculated distance is ->162.051923033
+314
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1188Virudhunagar_2.mfcc
+Calculated distance is ->131.982405384
+315
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1207_Tirupur_4.mfcc
+Calculated distance is ->93.5601041478
+316
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1354_Perambalur_2.mfcc
+Calculated distance is ->95.6294611173
+317
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1321_Thiruvarur_.mfcc
+Calculated distance is ->140.822707865
+318
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1195Virudhunagar_2.mfcc
+Calculated distance is ->105.911713796
+319
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1083_Erode_.mfcc
+Calculated distance is ->74.6262593974
+320
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1317_Thiruvarur_1.mfcc
+Calculated distance is ->80.3358166603
+321
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1243Thiruchirappalli_2.mfcc
+Calculated distance is ->92.9700668043
+322
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1228Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->80.3223305829
+323
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326_Thirunelveli_.mfcc
+Calculated distance is ->181.882908341
+324
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1236Dindigul_2.mfcc
+Calculated distance is ->119.390291827
+325
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1222_Virudhunagar_.mfcc
+Calculated distance is ->159.052064289
+326
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1250Coimbatore_2.mfcc
+Calculated distance is ->130.947927883
+327
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1356_Perambalur_.mfcc
+Calculated distance is ->110.009557623
+328
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1332_Thiruchirappalli_.mfcc
+Calculated distance is ->81.2459568154
+329
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1205Erode_2.mfcc
+Calculated distance is ->126.488468717
+330
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1290Villupuram_2.mfcc
+Calculated distance is ->128.514212057
+331
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1233_Karur_.mfcc
+Calculated distance is ->125.856448438
+332
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1144_Thiruchirappalli_.mfcc
+Calculated distance is ->131.423256305
+333
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1228_Karur_1.mfcc
+Calculated distance is ->283.548354342
+334
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1083_Coimbatore_.mfcc
+Calculated distance is ->84.1058369223
+335
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1354Ariyalur_1.mfcc
+Calculated distance is ->103.566967879
+336
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1218_Virudhunagar_.mfcc
+Calculated distance is ->126.106945247
+337
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1192Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->109.400753087
+338
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1338_Perambalur_1.mfcc
+Calculated distance is ->131.525560654
+339
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_4.mfcc
+Calculated distance is ->104.459586955
+340
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1122Salem_1.mfcc
+Calculated distance is ->119.343690319
+341
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1210Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->87.6186217072
+342
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1234Namakkal_1.mfcc
+Calculated distance is ->64.6031036591
+343
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1287Villupuram_1.mfcc
+Calculated distance is ->123.488278866
+344
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1330Erode_2.mfcc
+Calculated distance is ->145.375068209
+345
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1250_Tirupur_.mfcc
+Calculated distance is ->121.778975545
+346
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_5.mfcc
+Calculated distance is ->255.032404253
+347
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1330Thiruvarur_1.mfcc
+Calculated distance is ->286.084963002
+348
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1166Erode_2.mfcc
+Calculated distance is ->79.8499771147
+349
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1317_Perambalur_3.mfcc
+Calculated distance is ->227.703416274
+350
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1233Virudhunagar_1.mfcc
+Calculated distance is ->132.681742158
+351
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1235Namakkal_1.mfcc
+Calculated distance is ->75.0528871508
+352
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1303Cuddalore_2.mfcc
+Calculated distance is ->100.935879525
+353
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1237_Coimbatore_1.mfcc
+Calculated distance is ->71.8408294249
+354
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1208_Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->177.390240417
+355
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1148Thiruchirappalli_1.mfcc
+Calculated distance is ->190.323645921
+356
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207Coimbatore_2.mfcc
+Calculated distance is ->96.1577655908
+357
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1206Theni_2.mfcc
+Calculated distance is ->84.3541248929
+358
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1355_Perambalur_.mfcc
+Calculated distance is ->202.111315619
+359
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1235Namakkal_2.mfcc
+Calculated distance is ->60.4264588593
+360
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1095_Coimbatore_.mfcc
+Calculated distance is ->133.930810686
+361
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1205_Erode_.mfcc
+Calculated distance is ->126.488468717
+362
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1253Dindigul_1.mfcc
+Calculated distance is ->119.768786021
+363
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1326Thiruvarur_1.mfcc
+Calculated distance is ->125.369754775
+364
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1329_Namakkal_.mfcc
+Calculated distance is ->135.341621646
+365
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1291Cuddalore_2.mfcc
+Calculated distance is ->119.375716057
+366
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1105Coimbatore_2.mfcc
+Calculated distance is ->118.381243121
+367
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1235_Karur_.mfcc
+Calculated distance is ->87.2845544717
+368
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1316_Perambalur_6.mfcc
+Calculated distance is ->63.5313335741
+369
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1075_Erode_maavat$t$am.mfcc
+Calculated distance is ->82.1161915737
+370
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1100_Coimbatore_.mfcc
+Calculated distance is ->112.012612621
+371
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326Thirunelveli_1.mfcc
+Calculated distance is ->125.143992208
+372
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1220Erode_2.mfcc
+Calculated distance is ->103.820391101
+373
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1210Erode_2.mfcc
+Calculated distance is ->122.348426237
+374
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1207_Tirupur_1.mfcc
+Calculated distance is ->98.7076056963
+375
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_3.mfcc
+Calculated distance is ->120.840144517
+376
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1331_Thiruvarur_1.mfcc
+Calculated distance is ->384.335245864
+377
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1198_Coimbatore_2.mfcc
+Calculated distance is ->106.745045563
+378
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1230Dindigul_2.mfcc
+Calculated distance is ->95.4737706019
+379
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1276Thirunelveli_1.mfcc
+Calculated distance is ->142.680079474
+380
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1293_Thanjavur_.mfcc
+Calculated distance is ->108.483024706
+381
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1191Virudhunagar_1.mfcc
+Calculated distance is ->107.769798836
+382
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_2.mfcc
+Calculated distance is ->83.1051252293
+383
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1077Erode_maavat$t$am.mfcc
+Calculated distance is ->88.8928897234
+384
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1205_Dindigul_.mfcc
+Calculated distance is ->114.627940228
+385
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1329Thiruvarur_1.mfcc
+Calculated distance is ->92.407255942
+386
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1230Karur_1.mfcc
+Calculated distance is ->149.082167265
+387
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1078_Erode_maavat$t$am.mfcc
+Calculated distance is ->143.896888121
+388
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1322_Perambalur_2.mfcc
+Calculated distance is ->99.7675378415
+389
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1344_Madurai_.mfcc
+Calculated distance is ->100.24930272
+390
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1138_Erode_maavat$t$am_.mfcc
+Calculated distance is ->124.502661052
+391
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1315Cuddalore_2.mfcc
+Calculated distance is ->117.852011357
+392
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1239_Erode_1.mfcc
+Calculated distance is ->133.072395986
+393
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1315Thanjavur_1.mfcc
+Calculated distance is ->388.138842051
+394
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1092Erode_maavat$t$am.mfcc
+Calculated distance is ->112.304962352
+395
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1204_Coimbatore_2.mfcc
+Calculated distance is ->198.83245249
+396
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1320_Thiruchirappalli_.mfcc
+Calculated distance is ->113.145410876
+397
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1257Erode_maavat$t$am_1.mfcc
+Calculated distance is ->72.0626477504
+398
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1284_Thiruvannamalai_1.mfcc
+Calculated distance is ->115.451108406
+399
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1320Thiruvarur_1.mfcc
+Calculated distance is ->110.632316295
+400
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1180_Virudhunagar_.mfcc
+Calculated distance is ->91.4115092297
+401
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1100Coimbatore_1.mfcc
+Calculated distance is ->186.134941575
+402
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_1.mfcc
+Calculated distance is ->102.244393467
+403
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1325Thiruvarur_1.mfcc
+Calculated distance is ->82.3833416411
+404
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1325_Erode_.mfcc
+Calculated distance is ->101.788798099
+405
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1282Thiruvannamalai_2.mfcc
+Calculated distance is ->138.737185399
+406
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1176Coimbatore_1.mfcc
+Calculated distance is ->82.8882147671
+407
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1285_Cuddalore_.mfcc
+Calculated distance is ->175.743537344
+408
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1239Coimbatore_maavat$t$am_1.mfcc
+Calculated distance is ->129.773958355
+409
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1322Thiruvarur_1.mfcc
+Calculated distance is ->87.8526039347
+410
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326_Thirunelveli_2.mfcc
+Calculated distance is ->437.586669365
+411
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1201Coimbatore_2.mfcc
+Calculated distance is ->124.401086955
+412
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1327Thirunelveli_1.mfcc
+Calculated distance is ->105.684308152
+413
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1231Coimbatore_1.mfcc
+Calculated distance is ->96.4018615296
+414
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1202_Coimbatore_2.mfcc
+Calculated distance is ->420.124468936
+415
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1198Coimbatore_1.mfcc
+Calculated distance is ->125.855009719
+416
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1255_Madurai_.mfcc
+Calculated distance is ->343.866769693
+417
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1315Thiruvarur_1.mfcc
+Calculated distance is ->90.039216429
+418
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1282Madurai_1.mfcc
+Calculated distance is ->128.953518779
+419
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1219_Erode_maavat$t$am_.mfcc
+Calculated distance is ->87.4064322236
+420
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1232Karur_1.mfcc
+Calculated distance is ->434.212148432
+421
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1305_Ariyalur_1.mfcc
+Calculated distance is ->214.255647808
+422
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1123Erode_1.mfcc
+Calculated distance is ->39.150883492
+423
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1241Dindigul_1.mfcc
+Calculated distance is ->113.781612092
+424
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1089Coimbatore_maavat$t$am_3.mfcc
+Calculated distance is ->45.900573325
+425
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1342_Perambalur_5.mfcc
+Calculated distance is ->131.747091887
+426
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1348_Thirunelveli_.mfcc
+Calculated distance is ->115.307476796
+427
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1124_Salem_.mfcc
+Calculated distance is ->39.8003520006
+428
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1355_Perambalur_3.mfcc
+Calculated distance is ->210.48461574
+429
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1111_Theni_2.mfcc
+Calculated distance is ->114.191210205
+430
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1339_Thirunelveli_.mfcc
+Calculated distance is ->95.4934578754
+431
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326_Thirunelveli_7.mfcc
+Calculated distance is ->247.776452942
+432
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1228Thiruchirappalli_2.mfcc
+Calculated distance is ->58.0483480467
+433
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1284Thiruvannamalai_2.mfcc
+Calculated distance is ->117.841847459
+434
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1195_Virudhunagar_1.mfcc
+Calculated distance is ->66.7370581414
+435
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1148_Thiruchirappalli_1.mfcc
+Calculated distance is ->129.496149702
+436
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1072_Erode_maavat$t$am_2.mfcc
+Calculated distance is ->124.946371434
+437
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1119_Erode_.mfcc
+Calculated distance is ->236.804353644
+438
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349Thirunelveli_1.mfcc
+Calculated distance is ->191.148975168
+439
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1329Namakkal_2.mfcc
+Calculated distance is ->135.341621646
+440
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349_Thirunelveli_1.mfcc
+Calculated distance is ->230.259510219
+441
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1351Ariyalur_1.mfcc
+Calculated distance is ->90.4901193735
+442
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1228_Thiruchirappalli_.mfcc
+Calculated distance is ->58.0483480467
+443
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_6.mfcc
+Calculated distance is ->402.820638926
+444
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1120Salem_1.mfcc
+Calculated distance is ->337.704575553
+445
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207Coimbatore_1.mfcc
+Calculated distance is ->100.183833729
+446
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1317Thiruchirappalli_2.mfcc
+Calculated distance is ->130.000410836
+447
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1128Salem_1.mfcc
+Calculated distance is ->178.941501042
+448
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1075Erode_1.mfcc
+Calculated distance is ->114.402405328
+449
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1166_Erode_.mfcc
+Calculated distance is ->79.8499771147
+450
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1240_Coimbatore_.mfcc
+Calculated distance is ->116.469555768
+451
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1331Namakkal_2.mfcc
+Calculated distance is ->129.750381637
+452
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1193Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->115.616241444
+453
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1143Thiruchirappalli_1.mfcc
+Calculated distance is ->120.600438577
+454
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1106_Erode_maavat$t$am_.mfcc
+Calculated distance is ->78.579676396
+455
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1276_Cuddalore_.mfcc
+Calculated distance is ->107.327029597
+456
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1328_Madurai_1.mfcc
+Calculated distance is ->90.9031884649
+457
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1134Theni_1.mfcc
+Calculated distance is ->84.5659236987
+458
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1110_Erode_1.mfcc
+Calculated distance is ->42.5789438993
+459
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1106Erode_maavat$t$am_1.mfcc
+Calculated distance is ->78.579676396
+460
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1208_Erode_.mfcc
+Calculated distance is ->91.5387122034
+461
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1163_Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->70.5306430917
+462
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1207_Tirupur_3.mfcc
+Calculated distance is ->128.735114906
+463
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207_Coimbatore_5.mfcc
+Calculated distance is ->83.4784160659
+464
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1191_Virudhunagar_.mfcc
+Calculated distance is ->135.537659087
+465
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1209Virudhunagar_1.mfcc
+Calculated distance is ->109.73157042
+466
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1338_Perambalur_.mfcc
+Calculated distance is ->131.525560654
+467
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1213Virudhunagar_1.mfcc
+Calculated distance is ->123.865371705
+468
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_.mfcc
+Calculated distance is ->147.811295444
+469
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1123Erode_2.mfcc
+Calculated distance is ->38.9328471597
+470
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1282_Madurai_1.mfcc
+Calculated distance is ->122.619889194
+471
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1254Coimbatore_2.mfcc
+Calculated distance is ->264.318917129
+472
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_2.mfcc
+Calculated distance is ->119.989833381
+473
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1289_Villupuram_.mfcc
+Calculated distance is ->329.616470272
+474
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1227Villupuram_1.mfcc
+Calculated distance is ->86.7956107578
+475
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1357Villupuram_1.mfcc
+Calculated distance is ->106.122992092
+476
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1260Dindigul_1.mfcc
+Calculated distance is ->120.13505023
+477
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1139Thiruchirappalli_1.mfcc
+Calculated distance is ->107.964144746
+478
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1323Thanjavur_1.mfcc
+Calculated distance is ->122.954112426
+479
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_1.mfcc
+Calculated distance is ->134.424887617
+480
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1321Thiruvarur_1.mfcc
+Calculated distance is ->140.822707865
+481
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_4.mfcc
+Calculated distance is ->127.025719254
+482
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1347Thiruvarur_1.mfcc
+Calculated distance is ->100.586781705
+483
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1212_Erode_maavat$t$am_.mfcc
+Calculated distance is ->60.9023711999
+484
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1276_Thirunelveli_2.mfcc
+Calculated distance is ->142.680079474
+485
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1237Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->88.9283815077
+486
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1194_Virudhunagar_.mfcc
+Calculated distance is ->92.9777895743
+487
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1124Salem_1.mfcc
+Calculated distance is ->39.8003520006
+488
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1333Dindigul_1.mfcc
+Calculated distance is ->96.7667661594
+489
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1237_Coimbatore_.mfcc
+Calculated distance is ->71.8408294249
+490
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1320_Thiruvannamalai_.mfcc
+Calculated distance is ->143.453075538
+491
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1152Theni_1.mfcc
+Calculated distance is ->89.0393761289
+492
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1198Namakkal_1.mfcc
+Calculated distance is ->107.768919843
+493
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1117Salem_1.mfcc
+Calculated distance is ->101.411261025
+494
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1147Thiruchirappalli_1.mfcc
+Calculated distance is ->108.120903201
+495
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1176Erode_2.mfcc
+Calculated distance is ->116.878292657
+496
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1139Salem_1.mfcc
+Calculated distance is ->102.525062307
+497
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1275_Thirunelveli_.mfcc
+Calculated distance is ->89.2765347715
+498
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1282_Thiruvannamalai_.mfcc
+Calculated distance is ->124.257545945
+499
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_2.mfcc
+Calculated distance is ->70.2735840261
+500
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1304_Salem_.mfcc
+Calculated distance is ->234.00669765
+501
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1316Thiruvarur_1.mfcc
+Calculated distance is ->128.129415357
+502
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1161Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->79.7269719489
+503
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1228_Karur_2.mfcc
+Calculated distance is ->349.585125047
+504
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1088_Coimbatore_maavat$t$am_1.mfcc
+Calculated distance is ->103.653108544
+505
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1234Thiruchirappalli_2.mfcc
+Calculated distance is ->124.839035076
+506
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1353_Perambalur_.mfcc
+Calculated distance is ->76.6116749907
+507
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1180Virudhunagar_2.mfcc
+Calculated distance is ->84.7578806474
+508
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1291_Thiruvannamalai_.mfcc
+Calculated distance is ->145.833720473
+509
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_4.mfcc
+Calculated distance is ->111.583562651
+510
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1333_Theni_1.mfcc
+Calculated distance is ->112.740996361
+511
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Ariyalur.mfcc/1044Ariyalur_2.mfcc
+Calculated distance is ->112.337185611
+512
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Tirupur.mfcc/1207_Tirupur_2.mfcc
+Calculated distance is ->121.863236169
+513
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1222Virudhunagar_1.mfcc
+Calculated distance is ->174.905220663
+514
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Salem.mfcc/1141Salem_2.mfcc
+Calculated distance is ->65.7013334592
+515
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Cuddalore.mfcc/1318Cuddalore_2.mfcc
+Calculated distance is ->189.544542517
+516
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1204Theni_2.mfcc
+Calculated distance is ->118.881608623
+517
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Theni.mfcc/1110Theni_1.mfcc
+Calculated distance is ->82.1950622591
+518
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1335Thiruchirappalli_2.mfcc
+Calculated distance is ->137.547016634
+519
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Villupuram.mfcc/1227_Villupuram_.mfcc
+Calculated distance is ->86.7956107578
+520
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1275_Thirunelveli_1.mfcc
+Calculated distance is ->89.2765347715
+521
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1195_Virudhunagar_2.mfcc
+Calculated distance is ->62.9904694926
+522
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1317_Perambalur_.mfcc
+Calculated distance is ->172.550589149
+523
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1292_Madurai_.mfcc
+Calculated distance is ->314.837860469
+524
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Madurai.mfcc/1328_Madurai_.mfcc
+Calculated distance is ->90.9031884649
+525
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Karur.mfcc/1211Karur_2.mfcc
+Calculated distance is ->113.457426412
+526
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1316_Perambalur_7.mfcc
+Calculated distance is ->37.5345489258
+527
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1320Thiruvannamalai_2.mfcc
+Calculated distance is ->143.453075538
+528
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Namakkal.mfcc/1141_Namakkal_.mfcc
+Calculated distance is ->110.63876729
+529
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1190Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->123.953763764
+530
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_2.mfcc
+Calculated distance is ->134.963493857
+531
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1075_Erode_maavat$t$am_1.mfcc
+Calculated distance is ->93.4323822501
+532
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore.mfcc/1177_Coimbatore_.mfcc
+Calculated distance is ->92.6572772877
+533
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1318_Thanjavur_.mfcc
+Calculated distance is ->324.840377473
+534
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Erode.mfcc/1239_Erode_.mfcc
+Calculated distance is ->133.072395986
+535
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1223Virudhunagar_2.mfcc
+Calculated distance is ->99.3478372221
+536
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Perambalur.mfcc/1351_Perambalur_2.mfcc
+Calculated distance is ->88.1075852619
+537
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1165Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->118.690217582
+538
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1345Thirunelveli_1.mfcc
+Calculated distance is ->86.3251622069
+539
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Thanjavur.mfcc/1315_Thanjavur_.mfcc
+Calculated distance is ->284.672901689
+540
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Salem.mfcc/1110Salem_1.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1163Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->70.5306430917

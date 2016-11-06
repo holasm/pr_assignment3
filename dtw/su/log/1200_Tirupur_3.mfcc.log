@@ -1,0 +1,1617 @@
+2
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_4.mfcc
+Calculated distance is ->114.549464306
+3
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1312_Erode_.mfcc
+Calculated distance is ->131.375163921
+4
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1233Karur_1.mfcc
+Calculated distance is ->157.788713497
+5
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1236Karur_1.mfcc
+Calculated distance is ->377.911171694
+6
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1151Thiruchirappalli_2.mfcc
+Calculated distance is ->108.214351569
+7
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1205Coimbatore_1.mfcc
+Calculated distance is ->106.660452174
+8
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1140Thiruchirappalli_1.mfcc
+Calculated distance is ->125.107617201
+9
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1344_Madurai_1.mfcc
+Calculated distance is ->116.927828634
+10
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1203Coimbatore_1.mfcc
+Calculated distance is ->123.705147049
+11
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1244_Namakkal_.mfcc
+Calculated distance is ->94.0640955394
+12
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1315_Thanjavur_1.mfcc
+Calculated distance is ->243.068248664
+13
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1288Villupuram_1.mfcc
+Calculated distance is ->106.229068867
+14
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1225Coimbatore_1.mfcc
+Calculated distance is ->123.64361761
+15
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1187_Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->136.385452138
+16
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1341_Ariyalur_.mfcc
+Calculated distance is ->167.33675539
+17
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1128_Salem_.mfcc
+Calculated distance is ->125.915684802
+18
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1136_Salem_.mfcc
+Calculated distance is ->85.9792447361
+19
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1214_Virudhunagar_1.mfcc
+Calculated distance is ->135.59117557
+20
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1337Thiruvarur_1.mfcc
+Calculated distance is ->114.361027041
+21
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1354_Perambalur_.mfcc
+Calculated distance is ->107.365007811
+22
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1334Madurai_1.mfcc
+Calculated distance is ->139.777393931
+23
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1354_Perambalur_1.mfcc
+Calculated distance is ->110.303699105
+24
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1204_Tirupur_.mfcc
+Calculated distance is ->127.966137909
+25
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1119Salem_2.mfcc
+Calculated distance is ->206.695433146
+26
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1223Virudhunagar_1.mfcc
+Calculated distance is ->114.348371241
+27
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1187_Karur_.mfcc
+Calculated distance is ->111.798898636
+28
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1283Dindigul_1.mfcc
+Calculated distance is ->117.639153562
+29
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1122Salem_2.mfcc
+Calculated distance is ->104.425340429
+30
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1204_Coimbatore_3.mfcc
+Calculated distance is ->104.901669799
+31
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1229_Karur_.mfcc
+Calculated distance is ->115.648296155
+32
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1145_Thiruchirappalli_2.mfcc
+Calculated distance is ->290.756463648
+33
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1092Coimbatore_2.mfcc
+Calculated distance is ->121.601583125
+34
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1220Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->112.247810775
+35
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1331_Thiruvarur_.mfcc
+Calculated distance is ->318.870098589
+36
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1317_Perambalur_2.mfcc
+Calculated distance is ->256.281200408
+37
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1188_Coimbatore_.mfcc
+Calculated distance is ->128.092231798
+38
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1244Coimbatore_1.mfcc
+Calculated distance is ->150.467430149
+39
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_3.mfcc
+Calculated distance is ->135.819567639
+40
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1322Thanjavur_1.mfcc
+Calculated distance is ->143.587796771
+41
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_.mfcc
+Calculated distance is ->156.419990788
+42
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1087Coimbatore_2.mfcc
+Calculated distance is ->104.236931075
+43
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1338_Perambalur_4.mfcc
+Calculated distance is ->199.049722538
+44
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1357_Villupuram_1.mfcc
+Calculated distance is ->83.1732332613
+45
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1294Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->112.428186961
+46
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1118_Theni_.mfcc
+Calculated distance is ->140.526994308
+47
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1314Thiruvarur_1.mfcc
+Calculated distance is ->298.369456332
+48
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1176_Erode_.mfcc
+Calculated distance is ->111.337526036
+49
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1352_Perambalur_1.mfcc
+Calculated distance is ->109.098569321
+50
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1353_Perambalur_2.mfcc
+Calculated distance is ->304.60922086
+51
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1325Erode_2.mfcc
+Calculated distance is ->141.07743901
+52
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1214Virudhunagar_2.mfcc
+Calculated distance is ->113.895835369
+53
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1327Thirunelveli_2.mfcc
+Calculated distance is ->125.009302155
+54
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1195Virudhunagar_1.mfcc
+Calculated distance is ->120.744890798
+55
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1144_Thiruchirappalli_1.mfcc
+Calculated distance is ->119.220480462
+56
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1353_Perambalur_1.mfcc
+Calculated distance is ->113.725843534
+57
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1136_Salem_2.mfcc
+Calculated distance is ->81.6819628032
+58
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1296Thanjavur_1.mfcc
+Calculated distance is ->111.496617048
+59
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1209_Virudhunagar_.mfcc
+Calculated distance is ->114.375265703
+60
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1110_Theni_.mfcc
+Calculated distance is ->123.030630112
+61
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1339_Thirunelveli_1.mfcc
+Calculated distance is ->132.252096047
+62
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1187Virudhunagar_2.mfcc
+Calculated distance is ->117.749864483
+63
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1073_Erode_1.mfcc
+Calculated distance is ->107.149702196
+64
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207_Coimbatore_6.mfcc
+Calculated distance is ->108.313645719
+65
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1348_Thirunelveli_1.mfcc
+Calculated distance is ->120.080887452
+66
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1111_Theni_.mfcc
+Calculated distance is ->115.095165679
+67
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1119Salem_1.mfcc
+Calculated distance is ->235.840049509
+68
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1357Villupuram_2.mfcc
+Calculated distance is ->98.0634105486
+69
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1336Thanjavur_2.mfcc
+Calculated distance is ->114.556433876
+70
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1107Erode_2.mfcc
+Calculated distance is ->108.572261405
+71
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349_Thirunelveli_4.mfcc
+Calculated distance is ->138.709996036
+72
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1319Cuddalore_2.mfcc
+Calculated distance is ->79.0720056028
+73
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1188Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->129.230007195
+74
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1240Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->124.601972822
+75
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1228_Karur_3.mfcc
+Calculated distance is ->512.348490132
+76
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1074Erode_1.mfcc
+Calculated distance is ->119.505735598
+77
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1322_Perambalur_4.mfcc
+Calculated distance is ->106.802690794
+78
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_1.mfcc
+Calculated distance is ->106.825645959
+79
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_.mfcc
+Calculated distance is ->332.329222682
+80
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1150_Thiruchirappalli_.mfcc
+Calculated distance is ->438.299531351
+81
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1337_Thiruvarur_.mfcc
+Calculated distance is ->110.876662801
+82
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349_Thirunelveli_2.mfcc
+Calculated distance is ->188.965268988
+83
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_3.mfcc
+Calculated distance is ->100.426633306
+84
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1284Dindigul_1.mfcc
+Calculated distance is ->121.313535813
+85
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1188Karur_1.mfcc
+Calculated distance is ->163.368649074
+86
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1187Karur_2.mfcc
+Calculated distance is ->119.988994155
+87
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_5.mfcc
+Calculated distance is ->107.346832169
+88
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1293Thiruchirappalli_2.mfcc
+Calculated distance is ->89.7332169471
+89
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1151_Thiruchirappalli_.mfcc
+Calculated distance is ->120.297755932
+90
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1317Thiruvarur_1.mfcc
+Calculated distance is ->112.806038217
+91
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1225Villupuram_1.mfcc
+Calculated distance is ->169.68637395
+92
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1343Thirunelveli_1.mfcc
+Calculated distance is ->141.928558632
+93
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1351_Ariyalur_.mfcc
+Calculated distance is ->104.086584751
+94
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1136Salem_1.mfcc
+Calculated distance is ->104.92163186
+95
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1198Karur_1.mfcc
+Calculated distance is ->161.102241105
+96
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_.mfcc
+Calculated distance is ->104.187123023
+97
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1317Cuddalore_2.mfcc
+Calculated distance is ->130.700927922
+98
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1088Coimbatore_2.mfcc
+Calculated distance is ->193.617041896
+99
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1225_Erode_.mfcc
+Calculated distance is ->127.684064163
+100
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1115_Salem_.mfcc
+Calculated distance is ->113.021134817
+101
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1104_Erode_maavat$t$am_.mfcc
+Calculated distance is ->123.852507718
+102
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1226Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->175.167273077
+103
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1355_Perambalur_2.mfcc
+Calculated distance is ->222.999313687
+104
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1145Thiruchirappalli_1.mfcc
+Calculated distance is ->268.981189222
+105
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_1.mfcc
+Calculated distance is ->259.125416523
+106
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1305_Ariyalur_.mfcc
+Calculated distance is ->261.625549482
+107
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1319Thiruvarur_1.mfcc
+Calculated distance is ->136.883273401
+108
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1147_Thiruchirappalli_.mfcc
+Calculated distance is ->108.380253592
+109
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1078_Erode_1.mfcc
+Calculated distance is ->273.998773031
+110
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1213Virudhunagar_2.mfcc
+Calculated distance is ->119.560563936
+111
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1340_Perambalur_1.mfcc
+Calculated distance is ->108.410041021
+112
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1265Dindigul_1.mfcc
+Calculated distance is ->134.387869612
+113
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1211_Karur_1.mfcc
+Calculated distance is ->115.330690376
+114
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1125Salem_2.mfcc
+Calculated distance is ->108.842040541
+115
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1262Dindigul_1.mfcc
+Calculated distance is ->138.752181797
+116
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1202Dindigul_1.mfcc
+Calculated distance is ->120.203853428
+117
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1283Theni_2.mfcc
+Calculated distance is ->111.63512372
+118
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1144Thiruchirappalli_1.mfcc
+Calculated distance is ->125.356826186
+119
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1191Coimbatore_1.mfcc
+Calculated distance is ->116.111283298
+120
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1210_Coimbatore_.mfcc
+Calculated distance is ->114.960918345
+121
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1331Thiruvarur_1.mfcc
+Calculated distance is ->287.316807165
+122
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1348Cuddalore_2.mfcc
+Calculated distance is ->96.1262083686
+123
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1088_Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->225.412664052
+124
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1277Thiruvannamalai_1.mfcc
+Calculated distance is ->122.60769797
+125
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1166Salem_1.mfcc
+Calculated distance is ->119.441211643
+126
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1272_Thiruvannamalai_1.mfcc
+Calculated distance is ->128.160094456
+127
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1199_Erode_maavat$t$am_1.mfcc
+Calculated distance is ->136.216940848
+128
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1197Theni_2.mfcc
+Calculated distance is ->109.128449719
+129
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1306Ariyalur_1.mfcc
+Calculated distance is ->177.064258385
+130
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1355Thiruchirappalli_1.mfcc
+Calculated distance is ->217.588597305
+131
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/Coimbatore_.mfcc
+Calculated distance is ->107.400245037
+132
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1142_Thiruchirappalli_1.mfcc
+Calculated distance is ->324.76468071
+133
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1118Theni_1.mfcc
+Calculated distance is ->146.843443546
+134
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1151Thiruchirappalli_1.mfcc
+Calculated distance is ->120.297755932
+135
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1222Virudhunagar_2.mfcc
+Calculated distance is ->143.51567035
+136
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1116Coimbatore_2.mfcc
+Calculated distance is ->130.60563012
+137
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_3.mfcc
+Calculated distance is ->104.187123023
+138
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1078_Erode_maavat$t$am_2.mfcc
+Calculated distance is ->128.35048885
+139
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1221Coimbatore_maavat$t$am_1.mfcc
+Calculated distance is ->281.277595286
+140
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1282_Thiruvannamalai_1.mfcc
+Calculated distance is ->121.314613378
+141
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1347Namakkal_2.mfcc
+Calculated distance is ->107.295593431
+142
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1324Thirunelveli_1.mfcc
+Calculated distance is ->226.067227667
+143
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1090Coimbatore_maavat$t$am_4.mfcc
+Calculated distance is ->138.316223737
+144
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1219Erode_1.mfcc
+Calculated distance is ->174.889401486
+145
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1194Virudhunagar_2.mfcc
+Calculated distance is ->90.9874677108
+146
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1080_Erode_maavat$t$am_.mfcc
+Calculated distance is ->236.996449614
+147
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1199Erode_maavat$t$am_.mfcc
+Calculated distance is ->136.382941291
+148
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1165_Coimbatore_.mfcc
+Calculated distance is ->112.214186996
+149
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1325Thirunelveli_1.mfcc
+Calculated distance is ->131.739074275
+150
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1348_Coimbatore_.mfcc
+Calculated distance is ->445.025813389
+151
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1282_Madurai_.mfcc
+Calculated distance is ->128.623277454
+152
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1194Virudhunagar_1.mfcc
+Calculated distance is ->113.11370436
+153
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1228_Karur_.mfcc
+Calculated distance is ->274.04797075
+154
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1298_Madurai_.mfcc
+Calculated distance is ->84.7871240079
+155
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1211_Karur_.mfcc
+Calculated distance is ->115.330690376
+156
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1076Erode_1.mfcc
+Calculated distance is ->180.648090238
+157
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1181Virudhunagar_2.mfcc
+Calculated distance is ->110.403733403
+158
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1332Thanjavur_1.mfcc
+Calculated distance is ->72.2013741675
+159
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1075_Erode_maavat$t$am_3.mfcc
+Calculated distance is ->118.579417666
+160
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1201_Tirupur_6.mfcc
+Calculated distance is ->307.938626471
+161
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1244_Tirupur_.mfcc
+Calculated distance is ->112.89601152
+162
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1214_Virudhunagar_.mfcc
+Calculated distance is ->135.59117557
+163
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1246Coimbatore_1.mfcc
+Calculated distance is ->123.214357606
+164
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1190_Coimbatore_.mfcc
+Calculated distance is ->116.61552927
+165
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1260_Dindigul_1.mfcc
+Calculated distance is ->142.426535551
+166
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1221Virudhunagar_1.mfcc
+Calculated distance is ->107.270771245
+167
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1150Thiruchirappalli_1.mfcc
+Calculated distance is ->334.095426677
+168
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1150_Thiruchirappalli_1.mfcc
+Calculated distance is ->242.45232941
+169
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1348Thirunelveli_1.mfcc
+Calculated distance is ->112.400412035
+170
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1242Coimbatore_1.mfcc
+Calculated distance is ->116.836586436
+171
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1310Cuddalore_2.mfcc
+Calculated distance is ->202.543011588
+172
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1125Salem_1.mfcc
+Calculated distance is ->106.75701781
+173
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1225_Villupuram_.mfcc
+Calculated distance is ->200.070272437
+174
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1141Erode_1.mfcc
+Calculated distance is ->88.4121093779
+175
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1325Thirunelveli_2.mfcc
+Calculated distance is ->130.545227334
+176
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1298Madurai_2.mfcc
+Calculated distance is ->98.4314221739
+177
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1193Coimbatore_maavat$t$am_1.mfcc
+Calculated distance is ->136.013557355
+178
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1120_Salem_.mfcc
+Calculated distance is ->310.112943122
+179
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1312Thiruvarur_1.mfcc
+Calculated distance is ->146.625511862
+180
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1138Erode_maavat$t$am_1.mfcc
+Calculated distance is ->194.495193446
+181
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1091Coimbatore_maavat$t$am_2.mfcc
+Calculated distance is ->180.214415661
+182
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_4.mfcc
+Calculated distance is ->95.8081560933
+183
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1243Coimbatore_1.mfcc
+Calculated distance is ->84.455419995
+184
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1116Erode_1.mfcc
+Calculated distance is ->115.051288527
+185
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1210_Dindigul_.mfcc
+Calculated distance is ->143.515515754
+186
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1292Madurai_1.mfcc
+Calculated distance is ->245.846142625
+187
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1334Virudhunagar_2.mfcc
+Calculated distance is ->116.337790724
+188
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1221Erode_2.mfcc
+Calculated distance is ->151.233320423
+189
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1268Dindigul_1.mfcc
+Calculated distance is ->129.937109524
+190
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1282Villupuram_1.mfcc
+Calculated distance is ->116.708992302
+191
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1341_Perambalur_.mfcc
+Calculated distance is ->94.4243523741
+192
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1326Cuddalore_2.mfcc
+Calculated distance is ->112.327759659
+193
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1238Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->105.917825839
+194
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1355_Perambalur_1.mfcc
+Calculated distance is ->232.482332542
+195
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_1.mfcc
+Calculated distance is ->149.929205374
+196
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1351_Perambalur_.mfcc
+Calculated distance is ->105.925266405
+197
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1211Karur_1.mfcc
+Calculated distance is ->114.146930123
+198
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1177Coimbatore_1.mfcc
+Calculated distance is ->75.0168795423
+199
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1141Salem_1.mfcc
+Calculated distance is ->106.460590119
+200
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1332Thiruchirappalli_2.mfcc
+Calculated distance is ->98.0620677984
+201
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1320Cuddalore_2.mfcc
+Calculated distance is ->111.188276738
+202
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1201_Tirupur_5.mfcc
+Calculated distance is ->106.321098495
+203
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1356_Ariyalur_.mfcc
+Calculated distance is ->101.548296075
+204
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1327_Thirunelveli_.mfcc
+Calculated distance is ->125.009302155
+205
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1206_Tirupur_.mfcc
+Calculated distance is ->121.631555106
+206
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_1.mfcc
+Calculated distance is ->121.888053996
+207
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1076_Erode_1.mfcc
+Calculated distance is ->157.880569818
+208
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1206_Tirupur_1.mfcc
+Calculated distance is ->105.673104298
+209
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_2.mfcc
+Calculated distance is ->435.783426063
+210
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349_Thirunelveli_3.mfcc
+Calculated distance is ->221.152044131
+211
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_4.mfcc
+Calculated distance is ->228.886766464
+212
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1137_Salem_3.mfcc
+Calculated distance is ->112.487546321
+213
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1298Madurai_1.mfcc
+Calculated distance is ->84.7871240079
+214
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1322_Perambalur_.mfcc
+Calculated distance is ->106.802690794
+215
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1172Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->109.608618042
+216
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1287_Villupuram_.mfcc
+Calculated distance is ->190.886457893
+217
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1199_Erode_maavat$t$am.mfcc
+Calculated distance is ->136.382941291
+218
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207_Coimbatore_3.mfcc
+Calculated distance is ->107.380825302
+219
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1317Thanjavur_1.mfcc
+Calculated distance is ->106.2537909
+220
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1072_Erode_maavat$t$am_3.mfcc
+Calculated distance is ->112.325714767
+221
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1129_Salem_.mfcc
+Calculated distance is ->105.629804125
+222
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1280Theni_2.mfcc
+Calculated distance is ->120.860848168
+223
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1181Virudhunagar_1.mfcc
+Calculated distance is ->101.588174036
+224
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1076_Erode_2.mfcc
+Calculated distance is ->151.648090702
+225
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1318Thiruvarur_1.mfcc
+Calculated distance is ->184.398367345
+226
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1217_Erode_1.mfcc
+Calculated distance is ->129.457554769
+227
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1208Coimbatore_2.mfcc
+Calculated distance is ->130.757071486
+228
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1111_Theni_1.mfcc
+Calculated distance is ->115.095165679
+229
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1283_Madurai_.mfcc
+Calculated distance is ->145.783496775
+230
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1312Cuddalore_2.mfcc
+Calculated distance is ->134.977032605
+231
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1244_Namakkal_1.mfcc
+Calculated distance is ->94.0640955394
+232
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1242Karur_2.mfcc
+Calculated distance is ->112.111372715
+233
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1150_Thiruchirappalli_3.mfcc
+Calculated distance is ->438.299531351
+234
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_5.mfcc
+Calculated distance is ->108.895109496
+235
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1232_Virudhunagar_.mfcc
+Calculated distance is ->110.967287709
+236
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1206Coimbatore_1.mfcc
+Calculated distance is ->118.099629596
+237
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1235Dindigul_2.mfcc
+Calculated distance is ->107.261692425
+238
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1129Salem_1.mfcc
+Calculated distance is ->107.017699662
+239
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1352_Perambalur_2.mfcc
+Calculated distance is ->170.635857593
+240
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1356_Perambalur_2.mfcc
+Calculated distance is ->106.209238742
+241
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1296_Thanjavur_.mfcc
+Calculated distance is ->104.150075804
+242
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_3.mfcc
+Calculated distance is ->105.170253501
+243
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1073Erode_1.mfcc
+Calculated distance is ->117.053052861
+244
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1276_Thirunelveli_1.mfcc
+Calculated distance is ->189.835874614
+245
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1187Virudhunagar_1.mfcc
+Calculated distance is ->121.362397909
+246
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326_Thirunelveli_3.mfcc
+Calculated distance is ->120.666754461
+247
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1340_Perambalur_.mfcc
+Calculated distance is ->106.457160407
+248
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1351_Perambalur_1.mfcc
+Calculated distance is ->109.545578216
+249
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1339_Thirunelveli_3.mfcc
+Calculated distance is ->119.15286203
+250
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1146_Thiruchirappalli_.mfcc
+Calculated distance is ->132.063957069
+251
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1257Karur_1.mfcc
+Calculated distance is ->161.481352433
+252
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1205_Erode_1.mfcc
+Calculated distance is ->121.030923571
+253
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1216_Dindigul_.mfcc
+Calculated distance is ->123.215140527
+254
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1229Karur_2.mfcc
+Calculated distance is ->132.708445796
+255
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1210_Coimbatore_1.mfcc
+Calculated distance is ->105.917049214
+256
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1282_Thirunelveli_.mfcc
+Calculated distance is ->135.210861038
+257
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1187_Villupuram_.mfcc
+Calculated distance is ->121.46161952
+258
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1149Thiruchirappalli_1.mfcc
+Calculated distance is ->110.783427805
+259
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1096_Erode_.mfcc
+Calculated distance is ->109.950985223
+260
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1291_Thiruvannamalai_2.mfcc
+Calculated distance is ->134.736277203
+261
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1321_Thiruchirappalli.mfcc
+Calculated distance is ->145.985545763
+262
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1288Ariyalur_2.mfcc
+Calculated distance is ->127.234893277
+263
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1148_Thiruchirappalli_2.mfcc
+Calculated distance is ->100.708425947
+264
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_.mfcc
+Calculated distance is ->113.310325663
+265
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1295_Villupuram_.mfcc
+Calculated distance is ->157.779504692
+266
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1339_Namakkal_.mfcc
+Calculated distance is ->118.172528805
+267
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1221Virudhunagar_2.mfcc
+Calculated distance is ->111.531875327
+268
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1188Virudhunagar_1.mfcc
+Calculated distance is ->94.6933352985
+269
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1313Thanjavur_1.mfcc
+Calculated distance is ->145.88376421
+270
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_2.mfcc
+Calculated distance is ->132.726903258
+271
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1113Erode_2.mfcc
+Calculated distance is ->106.783746852
+272
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1212Erode_maavat$t$am.mfcc
+Calculated distance is ->91.6629879243
+273
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1250Dindigul_1.mfcc
+Calculated distance is ->106.738223231
+274
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1102Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->114.27836367
+275
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1234Karur_1.mfcc
+Calculated distance is ->106.074060119
+276
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1315Thanjavur_2.mfcc
+Calculated distance is ->368.538846934
+277
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1274Thirunelveli_1.mfcc
+Calculated distance is ->118.065582405
+278
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1122_Salem_.mfcc
+Calculated distance is ->132.760451492
+279
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1083_Erode_1.mfcc
+Calculated distance is ->98.3069916072
+280
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1088_Coimbatore_maavat$t$am_2.mfcc
+Calculated distance is ->132.954849907
+281
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1076_Erode_maavat$t$am_2.mfcc
+Calculated distance is ->152.361825323
+282
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1221_Coimbatore_maavat$t$am_2.mfcc
+Calculated distance is ->113.583392348
+283
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1314Cuddalore_2.mfcc
+Calculated distance is ->115.053330683
+284
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1353Thiruchirappalli_1.mfcc
+Calculated distance is ->178.627763652
+285
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1348Thiruvarur_1.mfcc
+Calculated distance is ->253.310636188
+286
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1188_Karur_.mfcc
+Calculated distance is ->109.913024565
+287
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1226_Coimbatore_.mfcc
+Calculated distance is ->100.887503275
+288
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1232Virudhunagar_1.mfcc
+Calculated distance is ->106.842400717
+289
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1214Virudhunagar_1.mfcc
+Calculated distance is ->103.866807323
+290
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1140Salem_1.mfcc
+Calculated distance is ->266.940925927
+291
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1320Villupuram_1.mfcc
+Calculated distance is ->132.676856633
+292
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1323Cuddalore_2.mfcc
+Calculated distance is ->108.234223415
+293
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1165_Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->102.992099605
+294
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1280Dindigul_1.mfcc
+Calculated distance is ->114.015355053
+295
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1217_Erode_.mfcc
+Calculated distance is ->235.502887602
+296
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1317_Thanjavur_.mfcc
+Calculated distance is ->287.329507299
+297
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1208Coimbatore_1.mfcc
+Calculated distance is ->91.118796669
+298
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1323Thiruvarur_1.mfcc
+Calculated distance is ->157.730919923
+299
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1216Karur_1.mfcc
+Calculated distance is ->109.266370585
+300
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1257Erode_maavat$t$am_.mfcc
+Calculated distance is ->105.384848899
+301
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1072_Erode_1.mfcc
+Calculated distance is ->118.345846676
+302
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1204_Coimbatore_1.mfcc
+Calculated distance is ->229.984727012
+303
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1346Thirunelveli_1.mfcc
+Calculated distance is ->199.453665514
+304
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1264Villupuram_2.mfcc
+Calculated distance is ->118.105883488
+305
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1212Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->87.8719910558
+306
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1072_Erode_2.mfcc
+Calculated distance is ->128.585387898
+307
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1352_Perambalur_.mfcc
+Calculated distance is ->90.3059827923
+308
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1356_Ariyalur_1.mfcc
+Calculated distance is ->101.548296075
+309
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1128Salem_2.mfcc
+Calculated distance is ->125.915684802
+310
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1204_Coimbatore_4.mfcc
+Calculated distance is ->125.915539182
+311
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1124Erode_2.mfcc
+Calculated distance is ->92.7981115949
+312
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1201_Coimbatore_.mfcc
+Calculated distance is ->122.745139346
+313
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1338_Perambalur_2.mfcc
+Calculated distance is ->193.530771302
+314
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1188Virudhunagar_2.mfcc
+Calculated distance is ->118.01063699
+315
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1207_Tirupur_4.mfcc
+Calculated distance is ->95.9642377222
+316
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1354_Perambalur_2.mfcc
+Calculated distance is ->115.063898092
+317
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1321_Thiruvarur_.mfcc
+Calculated distance is ->134.973316228
+318
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1195Virudhunagar_2.mfcc
+Calculated distance is ->102.666251615
+319
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1083_Erode_.mfcc
+Calculated distance is ->100.190911067
+320
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1317_Thiruvarur_1.mfcc
+Calculated distance is ->109.928081
+321
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1243Thiruchirappalli_2.mfcc
+Calculated distance is ->92.652687071
+322
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1228Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->94.3199001131
+323
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326_Thirunelveli_.mfcc
+Calculated distance is ->226.866027331
+324
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1236Dindigul_2.mfcc
+Calculated distance is ->139.329624459
+325
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1222_Virudhunagar_.mfcc
+Calculated distance is ->143.51567035
+326
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1250Coimbatore_2.mfcc
+Calculated distance is ->115.824992878
+327
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1356_Perambalur_.mfcc
+Calculated distance is ->110.168215137
+328
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1332_Thiruchirappalli_.mfcc
+Calculated distance is ->98.0620677984
+329
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1205Erode_2.mfcc
+Calculated distance is ->120.973691142
+330
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1290Villupuram_2.mfcc
+Calculated distance is ->113.583066775
+331
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1233_Karur_.mfcc
+Calculated distance is ->126.181642715
+332
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1144_Thiruchirappalli_.mfcc
+Calculated distance is ->116.153322536
+333
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1228_Karur_1.mfcc
+Calculated distance is ->290.806191096
+334
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1083_Coimbatore_.mfcc
+Calculated distance is ->88.517007947
+335
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1354Ariyalur_1.mfcc
+Calculated distance is ->106.234800064
+336
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1218_Virudhunagar_.mfcc
+Calculated distance is ->117.249492493
+337
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1192Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->104.996355766
+338
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1338_Perambalur_1.mfcc
+Calculated distance is ->162.11785701
+339
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_4.mfcc
+Calculated distance is ->130.10398694
+340
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1122Salem_1.mfcc
+Calculated distance is ->132.760451492
+341
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1210Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->119.498547248
+342
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1234Namakkal_1.mfcc
+Calculated distance is ->95.7739235556
+343
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1287Villupuram_1.mfcc
+Calculated distance is ->106.336139799
+344
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1330Erode_2.mfcc
+Calculated distance is ->151.947073216
+345
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1250_Tirupur_.mfcc
+Calculated distance is ->109.405537896
+346
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_5.mfcc
+Calculated distance is ->229.877297847
+347
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1330Thiruvarur_1.mfcc
+Calculated distance is ->245.171455856
+348
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1166Erode_2.mfcc
+Calculated distance is ->96.9572199025
+349
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1317_Perambalur_3.mfcc
+Calculated distance is ->243.918911271
+350
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1233Virudhunagar_1.mfcc
+Calculated distance is ->125.567997183
+351
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1235Namakkal_1.mfcc
+Calculated distance is ->106.035494286
+352
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1303Cuddalore_2.mfcc
+Calculated distance is ->101.032246182
+353
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1237_Coimbatore_1.mfcc
+Calculated distance is ->108.756310521
+354
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1208_Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->211.388802764
+355
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1148Thiruchirappalli_1.mfcc
+Calculated distance is ->180.993654904
+356
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207Coimbatore_2.mfcc
+Calculated distance is ->107.541843266
+357
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1206Theni_2.mfcc
+Calculated distance is ->100.643307473
+358
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1355_Perambalur_.mfcc
+Calculated distance is ->222.999313687
+359
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1235Namakkal_2.mfcc
+Calculated distance is ->87.4680238493
+360
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1095_Coimbatore_.mfcc
+Calculated distance is ->129.481950425
+361
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1205_Erode_.mfcc
+Calculated distance is ->120.973691142
+362
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1253Dindigul_1.mfcc
+Calculated distance is ->118.520964014
+363
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1326Thiruvarur_1.mfcc
+Calculated distance is ->154.053318519
+364
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1329_Namakkal_.mfcc
+Calculated distance is ->130.586715542
+365
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1291Cuddalore_2.mfcc
+Calculated distance is ->112.915640316
+366
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1105Coimbatore_2.mfcc
+Calculated distance is ->112.268139502
+367
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1235_Karur_.mfcc
+Calculated distance is ->114.765494117
+368
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1316_Perambalur_6.mfcc
+Calculated distance is ->72.4849079217
+369
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1075_Erode_maavat$t$am.mfcc
+Calculated distance is ->117.250713179
+370
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1100_Coimbatore_.mfcc
+Calculated distance is ->140.178478836
+371
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326Thirunelveli_1.mfcc
+Calculated distance is ->127.666556382
+372
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1220Erode_2.mfcc
+Calculated distance is ->122.225460655
+373
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1210Erode_2.mfcc
+Calculated distance is ->122.75283835
+374
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1207_Tirupur_1.mfcc
+Calculated distance is ->144.539879489
+375
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1202_Tirupur_3.mfcc
+Calculated distance is ->125.132862255
+376
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1331_Thiruvarur_1.mfcc
+Calculated distance is ->318.870098589
+377
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1198_Coimbatore_2.mfcc
+Calculated distance is ->112.109095725
+378
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1230Dindigul_2.mfcc
+Calculated distance is ->100.372939787
+379
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1276Thirunelveli_1.mfcc
+Calculated distance is ->172.820151421
+380
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1293_Thanjavur_.mfcc
+Calculated distance is ->111.676588561
+381
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1191Virudhunagar_1.mfcc
+Calculated distance is ->127.262396833
+382
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_2.mfcc
+Calculated distance is ->92.8093044792
+383
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1077Erode_maavat$t$am.mfcc
+Calculated distance is ->116.224049061
+384
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1205_Dindigul_.mfcc
+Calculated distance is ->124.887824263
+385
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1329Thiruvarur_1.mfcc
+Calculated distance is ->108.800064512
+386
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1230Karur_1.mfcc
+Calculated distance is ->128.033042131
+387
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1078_Erode_maavat$t$am.mfcc
+Calculated distance is ->136.449828106
+388
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1322_Perambalur_2.mfcc
+Calculated distance is ->108.49417801
+389
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1344_Madurai_.mfcc
+Calculated distance is ->129.064466706
+390
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1138_Erode_maavat$t$am_.mfcc
+Calculated distance is ->121.127990259
+391
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1315Cuddalore_2.mfcc
+Calculated distance is ->106.382992153
+392
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1239_Erode_1.mfcc
+Calculated distance is ->139.385611114
+393
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1315Thanjavur_1.mfcc
+Calculated distance is ->381.345648542
+394
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1092Erode_maavat$t$am.mfcc
+Calculated distance is ->106.035909131
+395
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1204_Coimbatore_2.mfcc
+Calculated distance is ->219.819710956
+396
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1320_Thiruchirappalli_.mfcc
+Calculated distance is ->135.888395257
+397
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1257Erode_maavat$t$am_1.mfcc
+Calculated distance is ->95.4278178771
+398
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1284_Thiruvannamalai_1.mfcc
+Calculated distance is ->117.567538709
+399
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1320Thiruvarur_1.mfcc
+Calculated distance is ->113.802641691
+400
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1180_Virudhunagar_.mfcc
+Calculated distance is ->103.232603525
+401
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1100Coimbatore_1.mfcc
+Calculated distance is ->219.009907588
+402
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_1.mfcc
+Calculated distance is ->106.723542355
+403
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1325Thiruvarur_1.mfcc
+Calculated distance is ->106.624943785
+404
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1325_Erode_.mfcc
+Calculated distance is ->141.07743901
+405
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1282Thiruvannamalai_2.mfcc
+Calculated distance is ->129.734420609
+406
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1176Coimbatore_1.mfcc
+Calculated distance is ->102.892537946
+407
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1285_Cuddalore_.mfcc
+Calculated distance is ->208.196791332
+408
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1239Coimbatore_maavat$t$am_1.mfcc
+Calculated distance is ->117.712853332
+409
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1322Thiruvarur_1.mfcc
+Calculated distance is ->102.778926539
+410
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326_Thirunelveli_2.mfcc
+Calculated distance is ->400.241736853
+411
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1201Coimbatore_2.mfcc
+Calculated distance is ->166.128029765
+412
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1327Thirunelveli_1.mfcc
+Calculated distance is ->129.182229678
+413
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1231Coimbatore_1.mfcc
+Calculated distance is ->151.3850047
+414
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1202_Coimbatore_2.mfcc
+Calculated distance is ->412.203132433
+415
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1198Coimbatore_1.mfcc
+Calculated distance is ->114.631154504
+416
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1255_Madurai_.mfcc
+Calculated distance is ->315.395686092
+417
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1315Thiruvarur_1.mfcc
+Calculated distance is ->117.281092803
+418
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1282Madurai_1.mfcc
+Calculated distance is ->123.27442625
+419
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1219_Erode_maavat$t$am_.mfcc
+Calculated distance is ->128.038645628
+420
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1232Karur_1.mfcc
+Calculated distance is ->424.383365255
+421
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1305_Ariyalur_1.mfcc
+Calculated distance is ->194.201737821
+422
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1123Erode_1.mfcc
+Calculated distance is ->76.9298298056
+423
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1241Dindigul_1.mfcc
+Calculated distance is ->163.626410589
+424
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1089Coimbatore_maavat$t$am_3.mfcc
+Calculated distance is ->79.928472387
+425
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1342_Perambalur_5.mfcc
+Calculated distance is ->127.27673229
+426
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1348_Thirunelveli_.mfcc
+Calculated distance is ->112.400412035
+427
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1124_Salem_.mfcc
+Calculated distance is ->73.1718055584
+428
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1355_Perambalur_3.mfcc
+Calculated distance is ->232.134981296
+429
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1111_Theni_2.mfcc
+Calculated distance is ->114.169715883
+430
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1339_Thirunelveli_.mfcc
+Calculated distance is ->113.264706418
+431
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1326_Thirunelveli_7.mfcc
+Calculated distance is ->248.58366533
+432
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1228Thiruchirappalli_2.mfcc
+Calculated distance is ->82.4471264928
+433
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1284Thiruvannamalai_2.mfcc
+Calculated distance is ->117.956254847
+434
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1195_Virudhunagar_1.mfcc
+Calculated distance is ->96.3283240254
+435
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1148_Thiruchirappalli_1.mfcc
+Calculated distance is ->120.213417558
+436
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1072_Erode_maavat$t$am_2.mfcc
+Calculated distance is ->124.150227217
+437
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1119_Erode_.mfcc
+Calculated distance is ->213.97150778
+438
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349Thirunelveli_1.mfcc
+Calculated distance is ->204.342018328
+439
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1329Namakkal_2.mfcc
+Calculated distance is ->130.586715542
+440
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1349_Thirunelveli_1.mfcc
+Calculated distance is ->233.484222433
+441
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1351Ariyalur_1.mfcc
+Calculated distance is ->104.086584751
+442
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1228_Thiruchirappalli_.mfcc
+Calculated distance is ->82.4471264928
+443
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1305_Thanjavur_6.mfcc
+Calculated distance is ->327.415395074
+444
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1120Salem_1.mfcc
+Calculated distance is ->309.862563021
+445
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207Coimbatore_1.mfcc
+Calculated distance is ->122.020648161
+446
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1317Thiruchirappalli_2.mfcc
+Calculated distance is ->123.642956683
+447
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1128Salem_1.mfcc
+Calculated distance is ->208.987135539
+448
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1075Erode_1.mfcc
+Calculated distance is ->112.473653087
+449
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1166_Erode_.mfcc
+Calculated distance is ->96.9572199025
+450
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1240_Coimbatore_.mfcc
+Calculated distance is ->124.601972822
+451
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1331Namakkal_2.mfcc
+Calculated distance is ->128.964724013
+452
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1193Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->111.542908762
+453
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1143Thiruchirappalli_1.mfcc
+Calculated distance is ->118.294392906
+454
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1106_Erode_maavat$t$am_.mfcc
+Calculated distance is ->103.07879314
+455
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1276_Cuddalore_.mfcc
+Calculated distance is ->129.118816261
+456
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1328_Madurai_1.mfcc
+Calculated distance is ->117.902081535
+457
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1134Theni_1.mfcc
+Calculated distance is ->111.909729144
+458
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1110_Erode_1.mfcc
+Calculated distance is ->77.1805438357
+459
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1106Erode_maavat$t$am_1.mfcc
+Calculated distance is ->103.07879314
+460
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1208_Erode_.mfcc
+Calculated distance is ->112.914713539
+461
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1163_Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->99.9079542773
+462
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1207_Tirupur_3.mfcc
+Calculated distance is ->117.974178553
+463
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1207_Coimbatore_5.mfcc
+Calculated distance is ->98.7935536889
+464
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1191_Virudhunagar_.mfcc
+Calculated distance is ->132.693174868
+465
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1209Virudhunagar_1.mfcc
+Calculated distance is ->106.751854573
+466
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1338_Perambalur_.mfcc
+Calculated distance is ->162.11785701
+467
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1213Virudhunagar_1.mfcc
+Calculated distance is ->117.225469897
+468
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_.mfcc
+Calculated distance is ->128.303029643
+469
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1123Erode_2.mfcc
+Calculated distance is ->70.8394016383
+470
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1282_Madurai_1.mfcc
+Calculated distance is ->125.426243927
+471
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1254Coimbatore_2.mfcc
+Calculated distance is ->334.880234416
+472
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_2.mfcc
+Calculated distance is ->111.983778757
+473
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1289_Villupuram_.mfcc
+Calculated distance is ->301.984065443
+474
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1227Villupuram_1.mfcc
+Calculated distance is ->83.1299928278
+475
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1357Villupuram_1.mfcc
+Calculated distance is ->108.319335712
+476
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1260Dindigul_1.mfcc
+Calculated distance is ->120.156431845
+477
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1139Thiruchirappalli_1.mfcc
+Calculated distance is ->113.794935859
+478
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1323Thanjavur_1.mfcc
+Calculated distance is ->114.173654072
+479
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_1.mfcc
+Calculated distance is ->109.827071686
+480
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1321Thiruvarur_1.mfcc
+Calculated distance is ->134.973316228
+481
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1345_Perambalur_4.mfcc
+Calculated distance is ->124.934082543
+482
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1347Thiruvarur_1.mfcc
+Calculated distance is ->101.521703118
+483
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1212_Erode_maavat$t$am_.mfcc
+Calculated distance is ->91.6629879243
+484
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1276_Thirunelveli_2.mfcc
+Calculated distance is ->172.820151421
+485
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1237Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->111.781038831
+486
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1194_Virudhunagar_.mfcc
+Calculated distance is ->90.9874677108
+487
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1124Salem_1.mfcc
+Calculated distance is ->73.1718055584
+488
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1333Dindigul_1.mfcc
+Calculated distance is ->122.232197207
+489
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1237_Coimbatore_.mfcc
+Calculated distance is ->108.756310521
+490
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1320_Thiruvannamalai_.mfcc
+Calculated distance is ->122.327840416
+491
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1152Theni_1.mfcc
+Calculated distance is ->90.6648339302
+492
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1198Namakkal_1.mfcc
+Calculated distance is ->111.958820351
+493
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1117Salem_1.mfcc
+Calculated distance is ->140.407044131
+494
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1147Thiruchirappalli_1.mfcc
+Calculated distance is ->116.541690672
+495
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1176Erode_2.mfcc
+Calculated distance is ->111.337526036
+496
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1139Salem_1.mfcc
+Calculated distance is ->113.510860012
+497
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1275_Thirunelveli_.mfcc
+Calculated distance is ->130.749562424
+498
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1282_Thiruvannamalai_.mfcc
+Calculated distance is ->121.314613378
+499
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1350_Perambalur_2.mfcc
+Calculated distance is ->98.5920245015
+500
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1304_Salem_.mfcc
+Calculated distance is ->207.242760183
+501
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvarur.mfcc/1316Thiruvarur_1.mfcc
+Calculated distance is ->136.320695399
+502
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1161Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->134.666160306
+503
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1228_Karur_2.mfcc
+Calculated distance is ->284.620475299
+504
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1088_Coimbatore_maavat$t$am_1.mfcc
+Calculated distance is ->119.2034458
+505
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1234Thiruchirappalli_2.mfcc
+Calculated distance is ->120.395893875
+506
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1353_Perambalur_.mfcc
+Calculated distance is ->105.809978464
+507
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1180Virudhunagar_2.mfcc
+Calculated distance is ->109.771227929
+508
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1291_Thiruvannamalai_.mfcc
+Calculated distance is ->134.736277203
+509
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1203_Tirupur_4.mfcc
+Calculated distance is ->114.715726417
+510
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1333_Theni_1.mfcc
+Calculated distance is ->132.94563972
+511
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Ariyalur.mfcc/1044Ariyalur_2.mfcc
+Calculated distance is ->116.382009622
+512
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Tirupur.mfcc/1207_Tirupur_2.mfcc
+Calculated distance is ->141.903813172
+513
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1222Virudhunagar_1.mfcc
+Calculated distance is ->159.948122935
+514
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Salem.mfcc/1141Salem_2.mfcc
+Calculated distance is ->89.9092157367
+515
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Cuddalore.mfcc/1318Cuddalore_2.mfcc
+Calculated distance is ->171.006226903
+516
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1204Theni_2.mfcc
+Calculated distance is ->106.116779669
+517
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Theni.mfcc/1110Theni_1.mfcc
+Calculated distance is ->127.067294591
+518
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruchirappalli.mfcc/1335Thiruchirappalli_2.mfcc
+Calculated distance is ->128.673058275
+519
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Villupuram.mfcc/1227_Villupuram_.mfcc
+Calculated distance is ->83.1299928278
+520
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1275_Thirunelveli_1.mfcc
+Calculated distance is ->130.749562424
+521
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1195_Virudhunagar_2.mfcc
+Calculated distance is ->86.970664726
+522
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1317_Perambalur_.mfcc
+Calculated distance is ->220.179681064
+523
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1292_Madurai_.mfcc
+Calculated distance is ->313.42136995
+524
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Madurai.mfcc/1328_Madurai_.mfcc
+Calculated distance is ->117.902081535
+525
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Karur.mfcc/1211Karur_2.mfcc
+Calculated distance is ->109.515862628
+526
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1316_Perambalur_7.mfcc
+Calculated distance is ->72.7140230249
+527
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thiruvannamalai.mfcc/1320Thiruvannamalai_2.mfcc
+Calculated distance is ->122.327840416
+528
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Namakkal.mfcc/1141_Namakkal_.mfcc
+Calculated distance is ->105.963272163
+529
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1190Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->106.305530147
+530
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Dindigul.mfcc/1268_Dindigul_2.mfcc
+Calculated distance is ->156.419990788
+531
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode_maavat$t$am.mfcc/1075_Erode_maavat$t$am_1.mfcc
+Calculated distance is ->143.133946244
+532
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore.mfcc/1177_Coimbatore_.mfcc
+Calculated distance is ->161.511871676
+533
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1318_Thanjavur_.mfcc
+Calculated distance is ->322.657925884
+534
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Erode.mfcc/1239_Erode_.mfcc
+Calculated distance is ->139.385611114
+535
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Virudhunagar.mfcc/1223Virudhunagar_2.mfcc
+Calculated distance is ->103.270176943
+536
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Perambalur.mfcc/1351_Perambalur_2.mfcc
+Calculated distance is ->109.861250543
+537
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1165Coimbatore_maavat$t$am.mfcc
+Calculated distance is ->112.214186996
+538
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thirunelveli.mfcc/1345Thirunelveli_1.mfcc
+Calculated distance is ->126.72812933
+539
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Thanjavur.mfcc/1315_Thanjavur_.mfcc
+Calculated distance is ->368.538846934
+540
+Calc dtw from/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Tirupur.mfcc/1200_Tirupur_3.mfcc=>../../data/processed/train/Coimbatore_maavat$t$am.mfcc/1163Coimbatore_maavat$t$am_.mfcc
+Calculated distance is ->99.9079542773

@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-var classes = ['zero','one','two','three','four','five','six','seven','eight','nine', 'sil'];
+var classes = ['zero','one','two','three','four','five','six','seven','eight','nine', 'sil', 'oh'];
 
 var data = '';
 

@@ -1,2 +1,2 @@
-$data = eight | five | four | nine | one | seven | six | three | two | zero;
-( sent-start ( <$data> ) sent-end )
+$data = eight | five | four | nine | oh | one | seven | six | three | two | zero;
+( sil( <$data> ) sil )

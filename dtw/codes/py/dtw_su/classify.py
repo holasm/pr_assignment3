@@ -120,13 +120,13 @@ def singleCityClassify(testCityFilePath, mem, testResult={}):
 
 # end_singleCityClassify
 
-def do_mem(testCityFilePaths):
+def do_mem(testCityFilePaths, resPath):
   # Set the directory you want to start from
   # fos = open('test.txt', 'wa')
-  rootDir = '../../data/processed/'
+  rootDir = '../../data/processed/train'
   cmd = 'rm ' + rootDir + '.DS_Store'
   # print cmd
-  # res = commands.getstatusoutput(cmd)
+  res = commands.getstatusoutput(cmd)
 
   mem = {}
   testResult = {}
@@ -145,10 +145,10 @@ def do_mem(testCityFilePaths):
       # READ THE FILES AND SAVE ON mem DICTIONARY
       #
       # mem[filePath] = mfcc.load_file(filePath)
-      # mfcc.load_file_to(filePath, mem)
-      t = threading.Thread(target=mfcc.load_file_to, args=(filePath, mem))
-      t.start()
-      t.join()
+      mfcc.load_file_to(filePath, mem)
+      # t = threading.Thread(target=mfcc.load_file_to, args=(filePath, mem))
+      # t.start()
+      # t.join()
 
   # *************************************************
   # NOW REUSE mem TO DO CLASSIFICATION MULTIPLE TIMES
@@ -157,14 +157,14 @@ def do_mem(testCityFilePaths):
     # 
     # USE threading here for multiple classification parallesism
     # 
-    # singleCityClassify(testCityFilePath, mem, testResult)
-    t = threading.Thread(target=singleCityClassify, args=(testCityFilePath, mem, testResult))
-    t.start()
-    t.join()
+    singleCityClassify(testCityFilePath, mem, testResult)
+    # t = threading.Thread(target=singleCityClassify, args=(testCityFilePath, mem, testResult))
+    # t.start()
+    # t.join()
     print datetime.datetime.now()
   
   for cityName_ in testResult:
-    sf = open('./../../su/result/' + cityName_, 'a+')
+    sf = open(resPath + cityName_, 'a+') # resPath = ./../../su/result/
     sf.write(str(testResult[cityName_]))
     sf.close()
   # end for testFiles

@@ -1,0 +1,202 @@
+[
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Dindigul.mfcc/1198Dindigul_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore_maavat$t$am.mfcc/1172Coimbatore_maavat$t$am.mfcc",
+    "dist": "4.290220"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Dindigul.mfcc/1200Dindigul_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore_maavat$t$am.mfcc/1172Coimbatore_maavat$t$am.mfcc",
+    "dist": "3.906702"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Dindigul.mfcc/1201_Dindigul_.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Dindigul.mfcc/1280Dindigul_1.mfcc",
+    "dist": "4.680570"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1063_Erode_3.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore.mfcc/Coimbatore_.mfcc",
+    "dist": "5.263198"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1064_Erode_.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Erode.mfcc/1083_Erode_1.mfcc",
+    "dist": "4.830896"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1064_Erode_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Erode.mfcc/1083_Erode_1.mfcc",
+    "dist": "4.830896"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1064_Erode_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Karur.mfcc/1235_Karur_.mfcc",
+    "dist": "4.246638"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1064_Erode_3.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Theni.mfcc/1110Theni_1.mfcc",
+    "dist": "4.093027"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1066Erode_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Perambalur.mfcc/1352_Perambalur_1.mfcc",
+    "dist": "5.443327"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1067Erode_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore_maavat$t$am.mfcc/1172Coimbatore_maavat$t$am.mfcc",
+    "dist": "4.220243"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1067_Erode_.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Perambalur.mfcc/1354_Perambalur_.mfcc",
+    "dist": "4.138910"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1067_Erode_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Thanjavur.mfcc/1323Thanjavur_1.mfcc",
+    "dist": "4.159294"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1067_Erode_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Virudhunagar.mfcc/1187Virudhunagar_1.mfcc",
+    "dist": "4.308808"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1067_Erode_3.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Perambalur.mfcc/1354_Perambalur_.mfcc",
+    "dist": "4.138910"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1068Erode_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Thiruchirappalli.mfcc/1150_Thiruchirappalli_1.mfcc",
+    "dist": "3.387075"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1069Erode_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Thiruchirappalli.mfcc/1143Thiruchirappalli_1.mfcc",
+    "dist": "5.699282"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1069_Erode_.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Theni.mfcc/1134Theni_1.mfcc",
+    "dist": "5.691740"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1069_Erode_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Theni.mfcc/1134Theni_1.mfcc",
+    "dist": "5.691740"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1069_Erode_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Thanjavur.mfcc/1323Thanjavur_1.mfcc",
+    "dist": "4.882378"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1069_Erode_3.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Erode.mfcc/1096_Erode_.mfcc",
+    "dist": "5.211240"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode.mfcc/1070_Erode_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Perambalur.mfcc/1354_Perambalur_.mfcc",
+    "dist": "3.340723"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode_maavat$t$am.mfcc/1070_Erode_maavat$t$am_5.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Thanjavur.mfcc/1332Thanjavur_1.mfcc",
+    "dist": "5.354385"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode_maavat$t$am.mfcc/1071Erode_maavat$t$am.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Erode.mfcc/1330Erode_2.mfcc",
+    "dist": "4.995158"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode_maavat$t$am.mfcc/1071_Erode_maavat$t$am5.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Salem.mfcc/1124Salem_1.mfcc",
+    "dist": "5.558755"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode_maavat$t$am.mfcc/1071_Erode_maavat$t$am_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Virudhunagar.mfcc/1209Virudhunagar_1.mfcc",
+    "dist": "5.306489"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode_maavat$t$am.mfcc/1071_Erode_maavat$t$am_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Erode.mfcc/1107Erode_2.mfcc",
+    "dist": "4.960900"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode_maavat$t$am.mfcc/1071_Erode_maavat$t$am_3.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Erode.mfcc/1107Erode_2.mfcc",
+    "dist": "4.860188"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode_maavat$t$am.mfcc/1071_Erode_maavat$t$am_4.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Erode.mfcc/1330Erode_2.mfcc",
+    "dist": "5.213626"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode_maavat$t$am.mfcc/1072Erode_maavat$t$am.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Villupuram.mfcc/1320Villupuram_1.mfcc",
+    "dist": "6.003091"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Erode_maavat$t$am.mfcc/1072_Erode_maavat$t$am_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Erode_maavat$t$am.mfcc/1072_Erode_maavat$t$am_2.mfcc",
+    "dist": "5.518903"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1103_Karur_.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Thiruvarur.mfcc/1320Thiruvarur_1.mfcc",
+    "dist": "5.559945"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1161Karur_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Virudhunagar.mfcc/1195_Virudhunagar_2.mfcc",
+    "dist": "3.976355"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1167Karur_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Perambalur.mfcc/1354_Perambalur_.mfcc",
+    "dist": "3.090471"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1170_Karur_.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Erode_maavat$t$am.mfcc/1080_Erode_maavat$t$am_.mfcc",
+    "dist": "4.377717"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1182Karur_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore.mfcc/Coimbatore_.mfcc",
+    "dist": "5.836152"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1184Karur_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Namakkal.mfcc/1234Namakkal_1.mfcc",
+    "dist": "5.952439"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1184_Karur_.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Namakkal.mfcc/1234Namakkal_1.mfcc",
+    "dist": "5.952439"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1184_Karur_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore_maavat$t$am.mfcc/1172Coimbatore_maavat$t$am.mfcc",
+    "dist": "5.760129"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1186Karur_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Perambalur.mfcc/1353_Perambalur_1.mfcc",
+    "dist": "3.908766"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Karur.mfcc/1187Karur_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Karur.mfcc/1187_Karur_.mfcc",
+    "dist": "0.000000"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Madurai.mfcc/1131_Madurai_.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore_maavat$t$am.mfcc/1172Coimbatore_maavat$t$am.mfcc",
+    "dist": "4.493181"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Madurai.mfcc/1171Madurai_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore_maavat$t$am.mfcc/1172Coimbatore_maavat$t$am.mfcc",
+    "dist": "3.617633"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Madurai.mfcc/1197Madurai_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Ariyalur.mfcc/1356_Ariyalur_.mfcc",
+    "dist": "4.385757"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Madurai.mfcc/1246Madurai_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore_maavat$t$am.mfcc/1172Coimbatore_maavat$t$am.mfcc",
+    "dist": "4.209013"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Madurai.mfcc/1255Madurai_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Villupuram.mfcc/1287_Villupuram_.mfcc",
+    "dist": "6.000322"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Madurai.mfcc/1255Madurai_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Madurai.mfcc/1292_Madurai_.mfcc",
+    "dist": "4.896985"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Namakkal.mfcc/1070_Namakkal_.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Tirupur.mfcc/1244_Tirupur_.mfcc",
+    "dist": "3.755338"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Namakkal.mfcc/1115Namakkal_1.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Perambalur.mfcc/1354_Perambalur_.mfcc",
+    "dist": "4.107150"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Namakkal.mfcc/1140Namakkal_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Coimbatore.mfcc/1100Coimbatore_1.mfcc",
+    "dist": "6.317833"
+  },
+  {
+    "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/test/Namakkal.mfcc/1141Namakkal_2.mfcc": "/Users/subhasis/Documents/iitm_courses/1_st_sem/PR/pr_assignment/assignment_3/dtw/data/processed/train/Namakkal.mfcc/1141_Namakkal_.mfcc",
+    "dist": "0.000000"
+  }
+]
