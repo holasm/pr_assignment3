@@ -17,6 +17,9 @@ def curvature(arr, t):
     c = ((arr[t][2] * arr[t][5]) - (arr[t][4] * arr[t][5])) / div
   return [round(c,5)]
 
+def normalize(arr):
+  
+
 def extend(str):
   arr_1 = []
   arr_2 = []
@@ -27,7 +30,9 @@ def extend(str):
   # convert to float array
   for i in range(1, len(data)):
     arr_.append(float(data[i]))
-    
+  
+  # normalize the x, y points
+
   # reshape to 2 column matrix
   arr = np.reshape(arr_, (-1, 2))
 
@@ -48,7 +53,7 @@ def extend(str):
 
   return arr_2
 
-# print extend("1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18")
+print extend("1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25")
 
 
 

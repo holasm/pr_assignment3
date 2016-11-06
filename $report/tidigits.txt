@@ -1,0 +1,45 @@
+#Goal
+Identify digit sequence from speech using HMM(Hidden Markov Model) using HTK tool kit.
+
+1. Data 
+  Given .wav file and .mfcc files corresponding to diffenent cities of south India.
+  The .mfcc files contains the features extracted from .wav files.
+
+2. Observation and Preprocessing of Data
+  It was observed that for many cities there was not enoung data i.e. enough .mfcc file was not there.
+  So we reduced the data set by ignoring .mfcc files corresponding to cities having less than 20 .mfcc files.
+  Then the reduced data was divided into training set by taking 25% of .mfcc files for each city.
+  The remaining 75% data (.mfcc files) was used for training.
+
+  given total data: 2737
+  test data: 216
+  train data: 539
+
+  Note: When .wav files are not given we can generate .mfcc from .wav files using matlab.
+  
+3. Experiment
+  Approach 1:
+    We have tried two approaches to classify the test cities.
+  Our approach was to calculate dtw distance between one test (.mfcc) file and all train (.mfcc) file.
+  From the train (.mfcc) file, giving minimum dtw distance is taken as classified city. All the coding is done
+  in c++.
+  
+  With this approach we got around 20% efficiency.
+
+  The approach is shown pictorially below.
+
+
+  Approach 2:
+    The first approach was not giving resonable efficiency. So we tried averaging the dtw distance for all train (.mfcc) files having same city name. This time we tried python.
+    
+    With this approach we got around 35% efficiency.
+
+    The approach is show pic torially below
+
+4. Inferances
+  1. We need more data set to get resonable classification.
+  2. The dtw algorithm is somewhat similar to LCS(Least Common Subsequence) with little modification.
+  3. Classification using dtw is extreamly computation intensive.
+
+
+
