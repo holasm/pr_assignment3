@@ -42,6 +42,8 @@ HVite -H io/hmms/hmmdefs -S io/created/scp/test.scp -l '*' -i io/hmms/result.mlf
 #==============
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+# 
+HHEd -H io/hmms/hmmdefs -M io/hmms/hmm_ incmix.4.hed io/hmms/hmmlist
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # HResults ...

@@ -1,0 +1,72 @@
+#Goal
+Identify character using HMM(Hidden Markov Model) using HTK tool kit.
+
+Introduction
+    HMM is a statistical model where we use supervised learning to create the model.
+  The model contains hidden states. We attatch state transition probability to each state.
+  The states can emit character symbols with certain probabilities. The state transition probabilities and 
+  symbol emissition probalities are calculated using [baum welch algorithm](https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm).
+    The classification of a particular sequence is done using vitterb algorithm on the constructed HMM.
+1. Data 
+    Given .ldf files corresponding to diffenent character symbols.
+  The .ldf files were created by extracting feature from pictures of character symbols.
+  Each files contain x, y coordinate for diffenent points on the symbol picture.
+  All the train and test data was not already separated.
+
+2. Observation and Preprocessing of Data
+    All given .ldf files were containing data for multple picture of same character symbols.
+  We have created multiple .mfcc files from the x, y coordinated for one feature corresponding 
+  to one character symbol picture.
+  Then we separated 25% of .mfcc files for each character symbol and taken as test data.
+  The remaining 75% .mfcc files were concisered for training.
+
+  We were about to use HTK() toolkit to do the experiment.
+  The following stepas were taken
+  1. To use the HTK tool kit we need to convert the .mfcc files to .htk format. To do this we have used matlab script file.
+  2. To use the matlab script we need to truncate the first line of the provided .mfcc files.
+  3. To use the matlab script we also need a filelist file with all .mfcc file paths.
+
+  Note: When .wav files are not given we can generate .mfcc from .wav files using matlab.
+  
+3. Experiment
+  We have HTK toolkit for the entire experiment.
+  The steps taken as follows.
+  1. Create grammer file
+    $ HParse ... (i/p: grammer, o/p: wordnet)
+
+  2. Create {wlist} file
+  3. Create {lexicon} file
+    $ HDMan ... (i/p: wlist, lexicon, model0, o/p: dict, dlog)
+
+  4. Create {all.mlf} file. The all.mlf file contains all label for man and woman mfcc files
+  5. Create {all.scp} file. This is the training scp file. The all.scp file contains all label for man and woman mfcc files
+  6. Create {proto} file √
+    $ HInit ... (i/p: all.scp, proto, o/p: newproto)
+    $ HRest ... (i/p: macros, hmmdefs, o/p: newproto) 
+    Repeat $ HRest for 4 or more times using previously generated proto for each character symbol.
+
+    $ HHEd ... (i/p: macros, hmmdefs, o/p: newHmmdefs.mlf)
+    $ HResults ... (i/p: allTest.mlf, o/p: result.mlf, confusiton matrix)
+
+  In the above experiment we have create created separate hmmdef for different character symbols.
+  Then after applying HRest ...  we have copied all generated proto (lastly) file in hmmdefs file. 
+  We have created the test.scp by kepping all test (.htk) file paths (for all character symbols).
+  We have also created the test.mlf by kepping all labels for test .mfcc files (for all character symbols).
+
+  In the above experiment we have tried using 
+    5 states and 1 mixture for each digit with efficiency 50%.
+    8 states and 1 mixture for each digit with efficiency 60%.
+    12 states and 5 mixture for each digit with efficiency 85%.
+
+  ----------------------------------------------------
+  plot the confusion matrix here
+  ----------------------------------------------------
+
+4. Inferances and observation
+  1. It was observed that with the increase of state number and mixture for each digit the effenciy increases.
+  2. 
+
+5. Links
+  All the codes are available at the following link.
+  https://github.com/holasm/pr_assignment3/tree/master/hmm/handwritten
+  4045b2ac7aadbc011301ccf731a1fb5094e8000b

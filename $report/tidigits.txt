@@ -1,45 +1,66 @@
 #Goal
 Identify digit sequence from speech using HMM(Hidden Markov Model) using HTK tool kit.
 
+Introduction
+    HMM is a statistical model where we use supervised learning to create the model.
+  The model contains hidden states. We attatch state transition probability to each state.
+  The states can emit symbols with certain probabilities. The state transition probabilities and 
+  symbol emissition probalities are calculated using [baum welch algorithm](https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm).
+    The classification of a particular sequence is done using vitterb algorithm on the constructed HMM.
 1. Data 
-  Given .wav file and .mfcc files corresponding to diffenent cities of south India.
+    Given .mfcc files corresponding to diffenent digit sequence uttered by men and womnen.
   The .mfcc files contains the features extracted from .wav files.
+  All the train and test data was already separated.
 
 2. Observation and Preprocessing of Data
-  It was observed that for many cities there was not enoung data i.e. enough .mfcc file was not there.
-  So we reduced the data set by ignoring .mfcc files corresponding to cities having less than 20 .mfcc files.
-  Then the reduced data was divided into training set by taking 25% of .mfcc files for each city.
-  The remaining 75% data (.mfcc files) was used for training.
+    All given .mfcc files were containing around 400 feature vector with 38 component each.
+  The fist line of .mfcc file was indicating the no of feature vector and number of components.
 
-  given total data: 2737
-  test data: 216
-  train data: 539
+  We were about to use HTK() toolkit to do the experiment.
+  The following stepas were taken
+  1. To use the HTK tool kit we need to convert the .mfcc files to .htk format. To do this we have used matlab script file.
+  2. To use the matlab script we need to truncate the first line of the provided .mfcc files.
+  3. To use the matlab script we also need a filelist file with all .mfcc file paths.
 
   Note: When .wav files are not given we can generate .mfcc from .wav files using matlab.
   
 3. Experiment
-  Approach 1:
-    We have tried two approaches to classify the test cities.
-  Our approach was to calculate dtw distance between one test (.mfcc) file and all train (.mfcc) file.
-  From the train (.mfcc) file, giving minimum dtw distance is taken as classified city. All the coding is done
-  in c++.
-  
-  With this approach we got around 20% efficiency.
+  We have HTK toolkit for the entire experiment.
+  The steps taken as follows.
+  1. Create grammer file
+    $ HParse ... (i/p: grammer, o/p: wordnet)
 
-  The approach is shown pictorially below.
+  2. Create {wlist} file
+  3. Create {lexicon} file
+    $ HDMan ... (i/p: wlist, lexicon, model0, o/p: dict, dlog)
 
+  4. Create {all.mlf} file. The all.mlf file contains all label for man and woman mfcc files
+  5. Create {all.scp} file. This is the training scp file. The all.scp file contains all label for man and woman mfcc files
+  6. Create {proto} file √
+    $ HCompV ... (i/p: all.scp, proto, o/p: newproto)
 
-  Approach 2:
-    The first approach was not giving resonable efficiency. So we tried averaging the dtw distance for all train (.mfcc) files having same city name. This time we tried python.
-    
-    With this approach we got around 35% efficiency.
+  7. Create {hmmdefs} file containg all HMMs for diffenent digits. hmmdefs was created by renaming the ~h option to digit name 
+    inside the newproto created using $ HCompV and make multiple copies for each digit in one hmmdefs.
+  8. We created {macros} file using {vFloors} file
+    $ HERest ... (i/p: macros, hmmdefs, o/p: newproto) (repeat 4 or more times using previously generated proto)
+    $ HHEd ... (i/p: macros, hmmdefs, o/p: newHmmdefs.mlf)
+    $ HResults ... (i/p: allTest.mlf, o/p: result.mlf, confusiton matrix)
 
-    The approach is show pic torially below
+  In the above experiment we have tried using 
+    5 states and 1 mixture for each digit with efficiency 26%.
+    8 states and 1 mixture for each digit with efficiency 50%.
+    12 states and 1 mixture for each digit with efficiency 70%.
+    20 states and 1 mixture for each digit with efficiency 71%.
+    12 states and 5 mixture for each digit with efficiency 90%.
 
-4. Inferances
-  1. We need more data set to get resonable classification.
-  2. The dtw algorithm is somewhat similar to LCS(Least Common Subsequence) with little modification.
-  3. Classification using dtw is extreamly computation intensive.
+4. Inferances and observation
+  1. It was observed that with the increase of state number and mixture for each digit the effenciy increases.
+  2. 
+
+5. Links
+  All the codes are available at the following link.
+  https://github.com/holasm/pr_assignment3/tree/master/hmm/tidigits/codes
+  3c36055eb64e50119ca39c844605bf59b824cb43
 
 
 
