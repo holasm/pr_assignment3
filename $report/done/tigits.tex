@@ -1,0 +1,106 @@
+\begin{center}
+\section{HMM - TIDIGIT data}
+\end{center}
+
+\subsection{Introduction}
+\begin{flushleft}
+  HMM is a statistical model where we use supervised learning to create the model.
+  The model contains hidden states. We attach state transition probability to each state.
+  The states can emit symbols with certain probabilities. \break
+  The state transition probabilities and 
+  symbol emission probabilities are calculated using Baum Welch algorithm.
+  The classification of a particular sequence is done using Vitterb algorithm on the constructed HMM.
+\end{flushleft}
+
+\subsection{Goal}
+\begin{flushleft}
+    Identify digit sequence from speech using HMM(Hidden Markov Model) using HTK tool kit.
+\end{flushleft}
+
+\subsection{Data}
+\begin{flushleft}
+  Given .mfcc files corresponding to diffenent digit sequence uttered by men and womnen.
+  The .mfcc files contains the features extracted from .wav files.
+  All the train and test data was already separated.
+\end{flushleft}
+
+
+\subsection{Observation and Preprocessing of Data}
+\begin{flushleft}
+    
+  All given .mfcc files were containing around 400 feature vector with 38 component each.
+  The fist line of .mfcc file was indicating the no of feature vector and number of components.
+
+  We were about to use HTK toolkit to do the experiment.
+  The following stepas were taken
+  1. To use the HTK tool kit we need to convert the .mfcc files to .htk format. To do this we have used matlab script file.
+  2. To use the matlab script we need to truncate the first line of the provided .mfcc files.
+  3. To use the matlab script we also need a filelist file with all .mfcc file paths.
+\end{flushleft}
+
+\subsection{Experiment}
+\begin{flushleft}
+  We have HTK toolkit for the entire experiment.
+  
+  The steps taken as follows. \break
+  
+  1. Create grammer file \break
+  \begin{lstlisting}[language=bash]
+    $ HParse ... (i/p: grammer, o/p: wordnet)
+  \end{lstlisting}
+  2. Create {wlist} file \break
+  
+  3. Create {lexicon} file \break
+  \begin{lstlisting}[language=bash]
+    $ HDMan ... (i/p: wlist, lexicon, model0, o/p: dict, dlog)
+ \end{lstlisting}
+  4. Create {all.mlf} file. The all.mlf file contains all label for man and woman mfcc files \break
+  
+  5. Create {all.scp} file. This is the training scp file. The all.scp file contains all label for man and woman mfcc files \break
+  
+  6. Create {proto} file √ \break
+  \begin{lstlisting}[language=bash]
+    $ HCompV ... (i/p: all.scp, proto, o/p: newproto) \break 
+  \end{lstlisting}
+  
+  7. Create {hmmdefs} file containg all HMMs for diffenent digits. hmmdefs was created by renaming the ~h option to digit name 
+    inside the newproto created using \$ HCompV and make multiple copies for each digit in one hmmdefs.
+    
+  8. We created {macros} file using {vFloors} file
+  
+  \begin{lstlisting}[language=bash]
+    $ HERest ... (i/p: macros, hmmdefs, o/p: newproto)
+    \end{lstlisting}
+    (repeat 4 or more times using previously generated proto)
+    \break
+    
+    \begin{lstlisting}[language=bash]
+    $ HHEd ... (i/p: macros, hmmdefs, o/p: newHmmdefs.mlf)
+    \end{lstlisting}
+
+    
+    \begin{lstlisting}[language=bash]
+    $ HResults ... (i/p: allTest.mlf, o/p: result.mlf, confusiton matrix)
+    \end{lstlisting}
+    
+  In the above experiment we have tried using \break
+    5 states and 1 mixture for each digit with efficiency \textbf{\textit{26\%}}. \break
+    8 states and 1 mixture for each digit with efficiency \textbf{\textit{50\%}}. \break
+    12 states and 1 mixture for each digit with efficiency \textbf{\textit{70\%}}. \break
+    20 states and 1 mixture for each digit with efficiency \textbf{\textit{71\%}}. \break
+    12 states and 5 mixture for each digit with efficiency \textbf{\textit{90\%}}. \break
+\end{flushleft}
+
+\subsection{Inferances}
+\begin{flushleft}
+  1. It was observed that with the increase of state number and mixture for each digit the effenciy increases.
+\end{flushleft}
+
+\subsection{Links}
+\begin{flushleft}
+  All the codes are available at the following
+  \color{red} 
+    \href{https://github.com/holasm/pr_assignment3/tree/master/hmm/tidigits/codes}{link}.
+  \end 
+  3c36055eb64e50119ca39c844605bf59b824cb43
+\end{flushleft}

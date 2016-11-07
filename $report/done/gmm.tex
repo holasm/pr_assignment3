@@ -1,0 +1,65 @@
+\begin{center}
+\section{GMM (Gausian Mixture Model)}
+\end{center}
+
+\subsection{Introduction}
+\begin{flushleft}
+Gaussian mixture model is a simple linear superposition of Gaussian components, aimed at providing a richer class of density models
+than the single Gaussian. Gaussian mixture distribution can be written as a linear superposition of Gaussians in the form
+
+\begin{center}
+\begin{equation}
+p(x) =  \sum_{k=1}^{K} \pi_{k}(x|\mu_{k}, \Sigma_{k})
+\end{equation}
+\end{center}
+
+\end{flushleft}
+
+
+\subsection{Goal}
+\begin{flushleft}
+    Identify image using GMM (Gausian Mixture Model).
+\end{flushleft}
+
+\subsection{Data}
+\begin{flushleft}
+    Given files were containg extracted features from different images in terms of 36x23 dimention matrix.
+\end{flushleft}
+
+\subsection{Observation and Preprocessing of Data}
+\begin{flushleft}
+  We created one vector for each image data of dimention 1x828 (23x36).
+\end{flushleft}
+
+\subsection{Experiment}
+\begin{flushleft}
+For one image file, we are given 36 23-dimensional feature vectors which represent the image (properties odf image). In previous assignment, we were given 3 classes of images for our classifier But now we are given 8 classes for classification. We make 5 gaussian models for each class. For that we use K-means algorithm to make 5 clusters in each image-type data.and then find log likelihood for each class.
+After finding log liklihood, E-M algorithm is applied to maximize the log liklihood. After that, we have parameters pie, sigma and covariance of each cluster for each class. We have to apply these parameters in dicreminate function to classify input file.
+We have taken \textbf{\textit{70\%}} of total given data for training and remaining \textbf{\textit{30\%}} data for testing accuracy of classifier.
+  
+\begin{figure}[!htb]
+\begin{center}
+\minipage{0.9\textwidth}
+  \includegraphics[width=\linewidth]{5.jpg}
+  \caption{ROC cureve}\label{fig:fig_a}
+\endminipage\hfill
+\end{center}
+\end{figure}
+\break
+
+\begin{figure}[!htb]
+\begin{center}
+\minipage{0.9\textwidth}
+  \includegraphics[width=\linewidth]{4.JPG}
+  \caption{Confusion Matrix}\label{fig:fig_a}
+\endminipage\hfill
+\end{center}
+\end{figure}
+
+\end{flushleft}
+
+\subsection{Observation}
+\begin{flushleft}
+  1. The efficiency increases with increase of number of mixtures.
+\end{flushleft}
+

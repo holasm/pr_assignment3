@@ -1,0 +1,45 @@
+\begin{center}
+\section{KNN (K Nearest Neighbours)}
+\end{center}
+
+\subsection{Introduction}
+\begin{flushleft}
+  K-nearest neighbours method is the simplest non parametric method of all. In this method we classify
+  the point depending on k nearest point.
+\end{flushleft}
+
+\subsection{Goal}
+\begin{flushleft}
+    Identify image using KNN (K Nearest Neighbours).
+\end{flushleft}
+
+\subsection{Data}
+\begin{flushleft}
+    Given files were containg extracted features from different images in terms of 36x23 dimention matrix.
+\end{flushleft}
+
+\subsection{Observation and Preprocessing of Data}
+\begin{flushleft}
+  We created one vector for each image data of dimention 1x828 (23x36).
+\end{flushleft}
+
+\subsection{Experiment}
+\begin{flushleft}
+  First of all, for one input feature vector, distances are calculated from all training feature vectors. 
+  Then some value of h is taken and h points with minimum distances are taken. we know the classes of this points so class in which the maximum number of points are lying will be the class of the input feature.
+  
+\begin{figure}[!htb]
+\begin{center}
+\minipage{0.9\textwidth}
+  \includegraphics[width=\linewidth]{3.png}
+  \caption{ROC cureve}\label{fig:fig_a}
+\endminipage\hfill
+\end{center}
+\end{figure}
+  
+\end{flushleft}
+
+\subsection{Observation}
+\begin{flushleft}
+  1. The efficiency depends on the value of k.
+\end{flushleft}

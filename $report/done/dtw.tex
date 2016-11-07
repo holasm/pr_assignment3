@@ -1,0 +1,96 @@
+\begin{center}
+\section{DTW}
+\end{center}
+
+\subsection{Introduction}
+\begin{flushleft}
+  DTW(Dynamic Time Warping) is used in time series analysis. It can be used to measure similarity between varying length sequence.
+  DTW can be used to calculate similarity between time series sequence.  
+\end{flushleft}
+
+\subsection{Goal}
+\begin{flushleft}
+    Identify city names from speech using DTW (Dynamic Time Warping).
+\end{flushleft}
+
+\subsection{Data}
+\begin{flushleft}
+  Given .wav file and .mfcc files corresponding to differnent cities of south India.
+  The .mfcc files contains the features extracted from .wav files.
+\end{flushleft}
+
+
+\subsection{Observation and Preprocessing of Data}
+\begin{flushleft}
+
+  It was observed that for many cities there was not enoung data i.e. enough .mfcc file was not there.
+  So we reduced the data set by ignoring .mfcc files corresponding to cities having less than 20 .mfcc files.\break
+  
+  Then the reduced data was divided into training set by taking \textbf{\textit{25\%}} of .mfcc files for each city.
+  The remaining \textbf{\textit{75\%}} data (.mfcc files) was used for training.
+
+  \break
+  \textbf{Before} data reduction \break
+  Total number of given .mfcc file: 2737 \break
+  
+ \textbf{After} data reduction \break
+ Total number of test .mfcc file: 216 \break
+ Total number of train .mfcc file: 539 \break
+
+  \textbf{Note}: When .wav files are not given we can generate .mfcc from .wav files using matlab.
+\end{flushleft}
+
+\subsection{Experiment}
+\begin{flushleft}
+  \textbf{Approach 1}: \break
+    We have tried two approaches to classify the test cities.
+  Our approach was to calculate dtw distance between one test (.mfcc) file and all train (.mfcc) file.
+  From the train (.mfcc) file, giving minimum dtw distance is taken as classified city. All the coding is done
+  in c++.
+  
+  With this approach we got around \textbf{\textit{20\%}} efficiency.
+
+  The approach is shown pictorially below.
+
+\begin{figure}[!htb]
+\begin{center}
+\minipage{0.8\textwidth}
+  \includegraphics[width=\linewidth]{1.png}
+  \caption{Approach 1}\label{fig:fig_a}
+\endminipage\hfill
+\end{center}
+\end{figure}
+
+\break
+
+  \textbf{Approach 2}: \break
+    The first approach was not giving resonable efficiency. So we tried averaging the dtw distance for all train (.mfcc) files having same city name. This time we tried python.
+    
+    With this approach we got around \textbf{\textit{35\%}} efficiency.
+
+    The approach is shown pictorially below
+\begin{figure}[!htb]
+\begin{center}
+\minipage{0.8\textwidth}
+  \includegraphics[width=\linewidth]{2.png}
+  \caption{Approach 2}\label{fig:fig_a}
+\endminipage\hfill
+\end{center}
+\end{figure}
+\end{flushleft}
+
+\subsection{Inferances}
+\begin{flushleft}
+  1. We need more data set to get reasonable classification.
+  2. The dtw algorithm is somewhat similar to LCS(Least Common Subsequence) with little modification.
+  3. Classification using dtw is extremely computation intensive.
+\end{flushleft}
+
+\subsection{Links}
+\begin{flushleft}
+  All the codes are available at the following
+  \color{red} 
+    \href{https://github.com/holasm/pr_assignment3/tree/master/dtw}{link}.
+  \end 
+  4045b2ac7aadbc011301ccf731a1fb5094e8000b
+\end{flushleft}

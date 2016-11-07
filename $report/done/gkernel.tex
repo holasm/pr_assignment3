@@ -1,0 +1,36 @@
+\begin{center}
+\section{Parzen Window - using Gausian Kernel}
+\end{center}
+
+\subsection{Introduction}
+\begin{flushleft}
+ Parzen Windiow is a non-parametric way of classifying data. In Gausian Kernel we calculate probability 
+ of all training points and the test point is classified as in the class of the point with highest probaility.
+\end{flushleft}
+
+\subsection{Goal}
+\begin{flushleft}
+    Identify image using Parzen Window (using Gausian Kernel).
+\end{flushleft}
+
+\subsection{Data}
+\begin{flushleft}
+    Given files were containg extracted features from different images in terms of 36x23 dimention matrix.
+\end{flushleft}
+
+
+\subsection{Observation and Preprocessing of Data}
+\begin{flushleft}
+  We created one vector for each image data of dimention 1x828 (23x36).
+\end{flushleft}
+
+\subsection{Experiment}
+\begin{flushleft}
+  The efficiency was around \textbf{\textit{60\%}}
+\end{flushleft}
+
+\subsection{Observation}
+\begin{flushleft}
+  1. The efficiency depends on the radius of the hypersphere.
+  There is a optimum value of radius of the hypersphere for which the efficiency will be maximum.
+\end{flushleft}

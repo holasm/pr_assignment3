@@ -1,0 +1,31 @@
+#Goal
+Identify image using Parzen Window (Taking Hypersphere as A Region).
+
+Introduction
+  Parzen Windiow is a non-parametric way of classifying data. In this method we take a volume in
+  space around the test feature vector. For Hypersphere as a region we take hypersphere volume
+  and calculate number of points from different classes inside the sphere.
+  The class in which maximum points are lying is the resultant class of input feature vector.
+
+1. Data 
+  
+
+2. Observation and Preprocessing of Data
+  We created one vector for each image data of dimention 1x828 (23x36).
+  
+3. Experiment
+  We have tried different volume of hyperspheres yielding varying effeciencies.
+
+  For h = 25 the efficiency was 42%
+  For h = 20 the efficiency was 48%
+  For h = 15 the efficiency was 55%
+  For h = 10 the efficiency was 50%
+
+4. Observation
+  1. The efficiency depends on the radius of the hypersphere.
+  There is a optimum value of radius of the hypersphere for which the efficiency will be maximum.
+
+
+
+
+

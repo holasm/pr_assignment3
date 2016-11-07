@@ -1,0 +1,56 @@
+\begin{center}
+\section{SVM (Support Vector Machine)}
+\end{center}
+
+\subsection{Introduction}
+\begin{flushleft}
+  SVM (Support Vector Machine) is mainly used in linear classification. It is a supervised learning model.
+  In SVM the training data is marked as belonging to one of two categories separeated by line. This way we 
+  classify new test data by observing which side th test data falls. \break
+  We can extend this idea for classification of among multiple class. 
+\end{flushleft}
+
+\subsection{Goal}
+\begin{flushleft}
+    Identify image using SVM (Support Vector Machine). We had to use libsvm library.
+\end{flushleft}
+
+\subsection{Data}
+\begin{flushleft}
+    Given files were containg extracted features from different images in terms of 36x23 dimention matrix.
+\end{flushleft}
+
+\subsection{Observation and Preprocessing of Data}
+\begin{flushleft}
+  We have taken 25\% of the given data from each class and used it as test data.
+  The remaining 75\% was used as training data.
+\end{flushleft}
+
+\subsection{Experiment}
+\begin{flushleft}
+  We used two library function provided by libsvm toolkit.\break
+  
+  1. svmtrain()\break
+  2. svmpredict()\break
+
+  For svmtrain() function the first argument was a matrix of feature vectors created 
+  by vertically concatenating all training image feature matrix.
+  The second argument was a vector indicating the class label for row of the first argument matrix.
+  The output of the svmtrain() is the train\_model. \break
+
+  For svmpredict() function the first argument was a matrix of feature vectors created 
+  by vertically concatenating all test image feature matrix.
+  The second argument was a vector indicating the class label for row of the first argument matrix.
+  The second argument was the train\_model we got as output from svmtrain().
+  
+\begin{figure}[!htb]
+\begin{center}
+\minipage{0.9\textwidth}
+  \includegraphics[width=\linewidth]{3.png}
+  \caption{ROC cureve}\label{fig:fig_a}
+\endminipage\hfill
+\end{center}
+\end{figure}
+  
+\end{flushleft}
+\break

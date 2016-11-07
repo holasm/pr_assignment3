@@ -38,8 +38,8 @@ Introduction
   3. Create {lexicon} file
     $ HDMan ... (i/p: wlist, lexicon, model0, o/p: dict, dlog)
 
-  4. Create {all.mlf} file. The all.mlf file contains all label for man and woman mfcc files
-  5. Create {all.scp} file. This is the training scp file. The all.scp file contains all label for man and woman mfcc files
+  4. Create {symbol.mlf} file. The all.mlf file contains specific symbol label.
+  5. Create {symbol.scp} file. This is the training scp file. The symbol.scp file contains specific symbol .mfcc paths.
   6. Create {proto} file √
     $ HInit ... (i/p: all.scp, proto, o/p: newproto)
     $ HRest ... (i/p: macros, hmmdefs, o/p: newproto) 

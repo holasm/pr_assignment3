@@ -1,0 +1,40 @@
+\begin{center}
+\section{DHMM (Discrete Hidden Markov Model)}
+\end{center}
+
+\subsection{Introduction}
+\begin{flushleft}
+  DHMM is one kind of supervised learning model. In this model the transition from one symbol to 
+  another is clearly known.
+\end{flushleft}
+
+\subsection{Goal}
+\begin{flushleft}
+    Identify digit sequence using DHMM (Discrete Hidden Markov Model).
+\end{flushleft}
+
+\subsection{Data}
+\begin{flushleft}
+  Given files were containg extracted features for diffenent digits individually. 
+\end{flushleft}
+
+\subsection{Observation and Preprocessing of Data}
+\begin{flushleft}
+  Each file contained mutiple feature vector for one digit. Each row contained 39 components.
+\end{flushleft}
+
+\subsection{Experiment}
+\begin{flushleft}
+  We used MIT hmm toolkit for this experiment. 
+  First we applied k-means clustering to get discontinuous clusters.
+  Then we assigned multiple cluster to different digits (classes).
+  After that we applied dhmm\_em() train data with multiple iteration.
+  Next we calculated accuracy of test data classification calculating log probability using dhmm\_logprob().
+
+  For 15 states and 50 iteration for dhmm\_em() the accuracy was around \textbf{\textit{82\%}}. \break
+\end{flushleft}
+
+\subsection{Observation}
+\begin{flushleft}
+  1. The accuracy increased with the increase of number of states and iteration count.
+\end{flushleft}

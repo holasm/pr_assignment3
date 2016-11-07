@@ -1,0 +1,116 @@
+\begin{center}
+\section{HMM - HANDWRITTEN data}
+\end{center}
+
+\subsection{Introduction}
+\begin{flushleft}
+  HMM is a statistical model where we use supervised learning to create the model.
+  The model contains hidden states. We attach state transition probability to each state.
+  The states can emit symbols with certain probabilities. \break
+  The state transition probabilities and 
+  symbol emission probabilities are calculated using Baum Welch algorithm.
+  The classification of a particular sequence is done using Vitterb algorithm on the constructed HMM.
+\end{flushleft}
+
+\subsection{Goal}
+\begin{flushleft}
+    Identify character symbols using HMM(Hidden Markov Model) using HTK tool kit.
+\end{flushleft}
+
+\subsection{Data}
+\begin{flushleft}
+    Given .ldf files corresponding to diffenent character symbols.
+  The .ldf files were created by extracting feature from pictures of character symbols.
+  Each files contain x, y coordinate for diffenent points on the symbol picture.
+  All the train and test data was not already separated.
+\end{flushleft}
+
+
+\subsection{Observation and Preprocessing of Data}
+\begin{flushleft}
+    
+    All given .ldf files were containing data for multple picture of same character symbols.
+  We have created multiple .mfcc files from the x, y coordinated for one feature corresponding 
+  to one character symbol picture.
+  Then we separated \textbf{\textit{25\%}} of .mfcc files for each character symbol and taken as test data.
+  The remaining \textbf{\textit{75\%}} .mfcc files were concisered for training.
+
+  We were about to use HTK toolkit to do the experiment.
+  The following stepas were taken\break
+  \textbf{1}. To use the HTK tool kit we need to convert the .mfcc files to .htk format. To do this we have used matlab script file.\break
+  \textbf{2}. To use the matlab script we need to truncate the first line of the provided .mfcc files.\break
+  \textbf{3}. To use the matlab script we also need a filelist file with all .mfcc file paths.\break
+
+  Note: When .wav files are not given we can generate .mfcc from .wav files using matlab.
+\end{flushleft}
+
+\subsection{Experiment}
+\begin{flushleft}
+  We have HTK toolkit for the entire experiment.
+  
+  The steps taken as follows. \break
+  
+  1. Create grammer file \break
+  \begin{lstlisting}[language=bash]
+    $ HParse ... (i/p: grammer, o/p: wordnet)
+  \end{lstlisting}
+  2. Create {wlist} file \break
+  
+  3. Create {lexicon} file \break
+  \begin{lstlisting}[language=bash]
+    $ HDMan ... (i/p: wlist, lexicon, model0, o/p: dict, dlog)
+ \end{lstlisting}
+  4. Create {symbol.mlf} file. The all.mlf file contains specific symbol label. \break
+  
+  5. Create {symbol.scp} file. This is the training scp file. The symbol.scp file contains specific symbol .mfcc paths. \break
+  
+  6. Create {proto} file \break
+  \begin{lstlisting}[language=bash]
+    $ HInit ... (i/p: all.scp, proto, o/p: newproto) \break 
+  \end{lstlisting}
+    \begin{lstlisting}[language=bash]
+    $ HRest ... (i/p: macros, hmmdefs, o/p: newproto)  \break 
+  \end{lstlisting}
+    Repeat \$ HRest for 4 or more times using previously generated proto for each character symbol.
+  
+  
+  \begin{lstlisting}[language=bash]
+    $ HERest ... (i/p: macros, hmmdefs, o/p: newproto)
+    \end{lstlisting}
+    (repeat 4 or more times using previously generated proto)
+    \break
+    
+    \begin{lstlisting}[language=bash]
+    $ HHEd ... (i/p: macros, hmmdefs, o/p: newHmmdefs.mlf)
+    \end{lstlisting}
+
+    
+    \begin{lstlisting}[language=bash]
+        $ HResults ... (i/p: allTest.mlf, o/p: result.mlf, confusiton matrix)
+    \end{lstlisting}
+    
+    In the above experiment we have create created separate hmmdef for different character symbols.
+  Then after applying HRest ...  we have copied all generated proto (lastly) file in hmmdefs file. 
+  We have created the test.scp by kepping all test (.htk) file paths (for all character symbols).
+  We have also created the test.mlf by kepping all labels for test .mfcc files (for all character symbols).
+  
+  In the above experiment we have tried using \break
+     5 states and 1 mixture for each digit with efficiency \textbf{\textit{50\%}}. \break
+    8 states and 1 mixture for each digit with efficiency \textbf{\textit{60\%}}. \break
+    12 states and 5 mixture for each digit with efficiency \textbf{\textit{85\%}}. \break
+ \break
+\end{flushleft}
+
+\subsection{Inferances}
+\begin{flushleft}
+  1. It was observed that with the increase of state number and mixture for each digit the effenciy increases.
+\end{flushleft}
+
+\subsection{Links}
+\begin{flushleft}
+  All the codes are available at the following
+  \color{red} 
+    \href{https://github.com/holasm/pr_assignment3/tree/master/hmm/handwritten}{link}.
+  \end 
+  4045b2ac7aadbc011301ccf731a1fb5094e8000b
+\end{flushleft}

@@ -1,13 +1,14 @@
 #Goal
-Identify city name from speech using DTW (Dynamic Time Warping).
+Identify image using SVM (Support Vector Machine).
 
 Introduction
-  DTW(Dynamic Time Warping) is used in time series analysis. It can be used to measure similarity between varying length sequence.
-  DTW can be used to calculate similarity between time series sequence. 
+  SVM (Support Vector Machine) is mainly used in linear classification. It is a supervised learning model.
+  In SVM the training data is marked as belonging to one of two categories separeated by line. This way we 
+  classify new test data by observing which side th test data falls.
 
+  We can extend this idea for classification of among multiple class. 
 1. Data 
-  Given .wav file and .mfcc files corresponding to diffenent cities of south India.
-  The .mfcc files contains the features extracted from .wav files.
+  Given files were containg extracted features from different images in terms of 36x23 dimention matrix.
 
 2. Observation and Preprocessing of Data
   It was observed that for many cities there was not enoung data i.e. enough .mfcc file was not there.
