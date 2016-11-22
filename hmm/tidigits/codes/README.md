@@ -13,7 +13,6 @@
 4. create {man.mlf, woman.mlf} file  
 5. create {man.scp, woman.scp} file  
 6. merge the .mlf files
--> HCopy ...  
 7. create {train.scp} file  √  
 8. create {proto} file  √  
 -> HCompV ...  
