@@ -20,7 +20,8 @@
 10. no need to create {macros} file. we can use {vFloors} file
 11. create the mlf
 -> HERest ... (repeat 3 or more times)  
-
+-> HVite ...  
+-> HResults ...  
 
 ##Status
 ----------------------------
@@ -30,8 +31,7 @@
 
 ##Todo
 ----------------------------
--> HVite ...  
--> HResults ...  
+
 
 ##Notes
 -----------------------------
